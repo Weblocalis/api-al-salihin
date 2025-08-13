@@ -174,13 +174,23 @@ fetch('https://api.al-salihin.com/data/quran-text/fr/surah/001.json')
 
 ## Contribution
 
-Merci de lire le fichier `CONTRIBUTING.md` avant de proposer des modifications.  
-Nous acceptons les contributions pour :
+Merci de lire le fichier [`CONTRIBUTING.md`](CONTRIBUTING.md) avant de proposer des modifications.  
+Please read the [`CONTRIBUTING.md`](CONTRIBUTING.md) file before submitting any changes.
+
+Nous acceptons les contributions pour :  
+We welcome contributions for:
 
 - Ajout ou correction de traductions  
+- Adding or correcting translations
+
 - Ajout de tafsir  
+- Adding Tafsir (commentaries)
+
 - Mise à jour des fichiers `index.json` et `juz.json`  
+- Updating the `index.json` and `juz.json` files
+
 - Amélioration de la documentation  
+- Improving the documentation
 
 ---
 
