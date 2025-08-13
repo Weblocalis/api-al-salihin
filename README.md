@@ -186,7 +186,8 @@ Nous acceptons les contributions pour :
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+Ce projet est distribué sous la licence [MIT](LICENSE).  
+Pour plus d’informations, consultez le fichier `LICENSE` à la racine du dépôt.
 
 ---
 ## Auteur | Author
