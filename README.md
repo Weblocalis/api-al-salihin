@@ -1,2 +1,72 @@
-# quran-api-al-salihin
-API statique du Coran en JSON pour utilisation publique, hébergée sur GitHub Pages et accessible via api.al-salihin.com.
+# Quran API - Al Salihin
+
+API statique pour accéder au texte du Coran, aux découpages par Juz et aux Tafsir en plusieurs langues.
+
+---
+
+## Structure du projet
+
+/data /quran-text /{lang}             # Dossiers par langue (ar, fr, en, etc.) /surah 001.json        # Fichier sourate individuel index.json      # Index des sourates dans cette langue /tafsir /{lang}             # Tafsir par langue juz.json              # Découpage précis du Coran en 30 Juz CONTRIBUTING.md LICENSE README.md
+
+---
+
+## Contenu des fichiers
+
+### Fichier sourate individuel (`001.json`)
+
+- `type` : `"surah"`  
+- `surah_number` : numéro de la sourate (1-114)  
+- `lang` : code langue (ex: "fr", "ar")  
+- `name` : nom de la sourate dans la langue concernée  
+- `name_ar` : nom arabe original  
+- `verses_count` : nombre total de versets  
+- `revelation_place` : "Mecque" ou "Médine"  
+- `revelation_type` : `"Makkia"` ou `"Madaniya"`  
+- `translated_by` : nom du traducteur ou source  
+- `verses` : tableau des versets avec :  
+  - `verse_number` : numéro du verset  
+  - `text` : texte du verset  
+
+### Fichier `index.json` (dans chaque langue)
+
+Liste des sourates disponibles avec métadonnées et chemin vers fichier.
+
+### Fichier `juz.json`
+
+Liste des 30 Juz avec début et fin en termes de sourate et verset, pour découpage précis.
+
+---
+
+## Utilisation de l’API
+
+Les fichiers JSON sont accessibles via URLs structurées, par exemple :
+
+https://api.al-salihin.com/data/quran-text/fr/surah/001.json https://api.al-salihin.com/data/juz.json
+
+---
+
+## Contribution
+
+Merci de lire le fichier `CONTRIBUTING.md` avant de proposer des modifications.  
+Nous acceptons les contributions pour :
+
+- Ajout ou correction de traductions  
+- Ajout de tafsir  
+- Mise à jour des fichiers `index.json` et `juz.json`  
+- Amélioration de la documentation  
+
+---
+
+## Licence
+
+Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+
+---
+
+## Contact
+
+Pour toute question, suggestion ou problème, merci d’ouvrir une issue sur GitHub.
+
+---
+
+*Al Salihin - Projet communautaire pour un accès libre au Coran multilingue.*
