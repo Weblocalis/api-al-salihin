@@ -14,37 +14,7 @@ API statique pour accéder au texte du Coran, aux découpages par Juz et aux Taf
 Le dossier `data` contient toutes les données textuelles et les commentaires (tafsir) du Coran, organisés par langue.
 
 ```sh
-.
-├── CONTRIBUTING.md
-├── LICENSE
-├── README.md
-└── data
-    ├── juz.json
-    ├── quran-text
-    │   ├── ar
-    │   │   └── surah
-    │   │       ├── 001.json
-    │   │       ├── 002.json
-    │   │       ├── 003.json
-    │   │       └── index.json
-    │   ├── de
-    │   ├── en
-    │   ├── es
-    │   ├── fr
-    │   │   └── surah
-    │   │       ├── 001.json
-    │   │       └── index.json
-    │   ├── id
-    │   ├── ja
-    │   ├── ms
-    │   ├── ru
-    │   ├── tr
-    │   ├── ur
-    │   └── zh
-    └── tafsir
-        ├── ar
-        ├── en
-        └── fr
+. ├── CONTRIBUTING.md ├── LICENSE ├── README.md └── data ├── juz.json               # Division of the Quran into 30 Juz ├── quran-text             # Quran text │   ├── ar                 # Arabic (original) │   │   └── surah          # Surahs in JSON files │   ├── fr                 # French (translations) │   │   └── surah │   ├── en                 # English │   ├── ...                # Other languages (de, es, id, etc.) └── tafsir                 # Commentaries (Tafsir) ├── ar ├── fr └── en
 ```
 
 ---
