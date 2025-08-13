@@ -1,5 +1,5 @@
 > <p align="center" dir="rtl" lang="ar" style="font-size:1.5em; font-style: italic; color: #0d6efd;">
-> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 > </p>
 
 # Quran API - Al Salihin
