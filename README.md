@@ -72,9 +72,23 @@ Path / Chemin : `quran-text/(lang)/surah/<001:114>.json`
 | `verses[].verse_number` | Verse number | Numéro du verset |
 | `verses[].text` | Verse text | Texte du verset |
 
-### Fichier `index.json` (dans chaque langue)
+### 📄 Surah Index File | Fichier index des sourates
 
-Liste des sourates disponibles avec métadonnées et chemin vers fichier.
+JSON file listing all Surahs in a given language.  
+Fichier JSON listant toutes les sourates pour une langue donnée.  
+
+Example / Exemple : `quran-text/(lang)/surah/index.json`
+
+| Key | Description (EN) | Description (FR) |
+|-----|------------------|------------------|
+| `surah_number` | Surah number (1–114) | Numéro de la sourate (1–114) |
+| `lang` | Language code (e.g., `"ar"`) | Code langue (ex: `"ar"`) |
+| `name_ar` | Original Arabic name | Nom arabe original |
+| `name_translated` | Translated name in the given language | Nom traduit dans la langue donnée |
+| `verses_count` | Total number of verses | Nombre total de versets |
+| `revelation_place` | `"Mecca"` or `"Medina"` | `"Mecque"` ou `"Médine"` |
+| `revelation_type` | `"Makkia"` or `"Madaniya"` | `"Makkia"` ou `"Madaniya"` |
+| `translated_by` | Translator or source name | Nom du traducteur ou source |
 
 ### Fichier `juz.json`
 
