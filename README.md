@@ -139,12 +139,8 @@ The JSON files are accessible via structured URLs, for example:
 - `https://api.al-salihin.com/data/juz.json`  
   (Découpage par Juz / Juz division)
 
----
-
 Ces URLs permettent à toute application ou utilisateur d’accéder facilement aux données du Coran et aux Tafsir.  
 These URLs allow any application or user to easily access Quran data and Tafsir.
-
----
 
 ### Exemple de requête JavaScript | JavaScript Fetch Example
 
