@@ -72,23 +72,44 @@ Path / Chemin : `quran-text/(lang)/surah/<001:114>.json`
 | `verses[].verse_number` | Verse number | Numéro du verset |
 | `verses[].text` | Verse text | Texte du verset |
 
-### 📄 Surah Index File | Fichier index des sourates
+### 📄 index.json
 
-JSON file listing all Surahs in a given language.  
-Fichier JSON listant toutes les sourates pour une langue donnée.  
+JSON file listing metadata for all Surahs in a given language (like a table of contents).  
+Fichier JSON listant les métadonnées de toutes les sourates dans une langue donnée (comme une table des matières).  
 
-Example / Exemple : `quran-text/(lang)/surah/index.json`
+Example / Exemple : `data/quran-text/ar/surah/index.json`
 
 | Key | Description (EN) | Description (FR) |
 |-----|------------------|------------------|
 | `surah_number` | Surah number (1–114) | Numéro de la sourate (1–114) |
 | `lang` | Language code (e.g., `"ar"`) | Code langue (ex: `"ar"`) |
 | `name_ar` | Original Arabic name | Nom arabe original |
-| `name_translated` | Translated name in the given language | Nom traduit dans la langue donnée |
+| `name_translated` | Translated Surah name in the language | Nom traduit de la sourate dans la langue |
+| `verses_count` | Total number of verses | Nombre total de versets |
+| `revelation_place` | `"Mecca"` or `"Medina"` | `"Mecque"` ou `"Médine"` |
+| `revelation_type` | `"Makkia"` or `"Madaniya"` | `"Makkia"` ou `"Madaniya"` |
+
+---
+
+### 📄 surah.json
+
+JSON file containing the full Quran text for one Surah (all verses).  
+Fichier JSON contenant le texte complet d’une sourate (tous les versets).  
+
+Example / Exemple : `data/quran-text/ar/surah/001.json`
+
+| Key | Description (EN) | Description (FR) |
+|-----|------------------|------------------|
+| `surah_number` | Surah number (1–114) | Numéro de la sourate (1–114) |
+| `lang` | Language code (e.g., `"ar"`) | Code langue (ex: `"ar"`) |
+| `name_ar` | Original Arabic name | Nom arabe original |
 | `verses_count` | Total number of verses | Nombre total de versets |
 | `revelation_place` | `"Mecca"` or `"Medina"` | `"Mecque"` ou `"Médine"` |
 | `revelation_type` | `"Makkia"` or `"Madaniya"` | `"Makkia"` ou `"Madaniya"` |
 | `translated_by` | Translator or source name | Nom du traducteur ou source |
+| `verses` | Array of verses with verse number and text | Tableau des versets avec numéro et texte |
+| `verses[].verse_number` | Verse number | Numéro du verset |
+| `verses[].text` | Verse text | Texte du verset |
 
 ### 📄 Juz File | Fichier Juz
 
