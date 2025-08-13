@@ -32,7 +32,7 @@ Le dossier `data` contient toutes les données textuelles et les commentaires (t
 ├── fr 
 └── en
 ```
-
+> Each language folder contains Surahs as individual JSON files (e.g., `001.json`) and an `index.json` file listing all Surahs.
 ---
 
 ## Contenu des fichiers
