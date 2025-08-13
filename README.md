@@ -19,8 +19,6 @@
 **Static API to access the Quran text, Juz divisions, and Tafsir in multiple languages.**  
 API statique pour accéder au texte du Coran, aux découpages par Juz et aux Tafsir en plusieurs langues.
 
-[![Powered by Al Salihin](https://img.shields.io/badge/Powered%20by-Al%20Salihin-0d6efd?style=flat)](https://api.al-salihin.com/?utm_source=github&utm_medium=badge&utm_campaign=powered_by)
-
 ---
 
 ## Project Structure / Structure du projet
@@ -221,6 +219,8 @@ Pour plus d’informations, consultez le fichier `LICENSE` à la racine du dép�
 ## Auteur | Author
 
 **A. Mharzi** / **WebLocalis**
+
+[![Powered by Al Salihin](https://img.shields.io/badge/Powered%20by-Al%20Salihin-0d6efd?style=flat)](https://api.al-salihin.com/?utm_source=github&utm_medium=badge&utm_campaign=powered_by)
 
 [![AbSphere](https://img.shields.io/github/followers/AbSphere?label=AbSphere&style=social)](https://github.com/AbSphere) &nbsp;&nbsp;|&nbsp;&nbsp; [![Weblocalis](https://img.shields.io/github/followers/Weblocalis?label=Weblocalis&style=social)](https://github.com/Weblocalis)
 
