@@ -144,7 +144,9 @@ Example / Exemple : `data/juz.json`
 
 - `https://api.al-salihin.com/data/quran-text/{lang}/surah/<001:114>.json`
 
-- `https://api.al-salihin.com/data/quran-text/*{lang}*/surah.json`
+- `https://api.al-salihin.com/data/quran-text/{lang}/surah.json`
+
+- `https://api.al-salihin.com/data/quran-text/{lang}/surah/<001:114>.json`  
 
 - `https://api.al-salihin.com/data/juz.json`  
   (Découpage par Juz / Juz division)
