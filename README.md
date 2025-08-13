@@ -182,6 +182,18 @@ Nous acceptons les contributions pour :
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ---
+## Auteur | Author
+
+**Abdelhak Mharzi**  
+[![GitHub followers](https://img.shields.io/github/followers/AbdelhakMharzi?label=Follow%20me&style=social)](https://github.com/AbdelhakMharzi)  
+
+---
+
+Tu peux personnaliser le nom et le lien GitHub selon ton profil réel.  
+
+Ce badge affiche le nombre de followers GitHub et invite à te suivre facilement.  
+
+Veux-tu que je t’aide à intégrer aussi un lien vers ton site ou tes réseaux sociaux ?
 
 ## Contact
 
