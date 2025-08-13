@@ -43,6 +43,11 @@ API statique pour accéder au texte du Coran, aux découpages par Juz et aux Taf
 ---
 
 ## 📄 File Contents | Contenu des fichiers
+**This section describes the structure of each JSON file containing Quran text.**
+Cette section décrit la structure de chaque fichier JSON contenant le texte du Coran.
+
+**Each Surah file follows a consistent schema to make it easy to parse and use in any application.**
+Chaque fichier de sourate suit un schéma cohérent pour être facilement exploitable dans toute application.
 
 ### 🗂 Individual File 
 
