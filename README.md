@@ -179,11 +179,6 @@ fetch('https://api.al-salihin.com/data/quran-text/fr/surah/001.json')
 
 ## Contribution
 
-**Tafsir**
-- Ibn Kathir (Arabic) : <progress value="15" max="100"></progress> 15%
-- Ibn Kathir (French) : <progress value="5" max="100"></progress> 5%
-- Ibn Kathir (English) : <progress value="2" max="100"></progress> 2%
-
 Merci de lire le fichier [`CONTRIBUTING.md`](CONTRIBUTING.md) avant de proposer des modifications.  
 Please read the [`CONTRIBUTING.md`](CONTRIBUTING.md) file before submitting any changes.
 
@@ -209,6 +204,11 @@ We welcome contributions for:
 - 🇫🇷 French : <progress value="45" max="100"></progress> 45%
 - 🇬🇧 English : <progress value="30" max="100"></progress> 30%
 - 🇪🇸 Spanish : <progress value="10" max="100"></progress> 10%
+
+**Tafsir**
+- Ibn Kathir (Arabic) : <progress value="15" max="100"></progress> 15%
+- Ibn Kathir (French) : <progress value="5" max="100"></progress> 5%
+- Ibn Kathir (English) : <progress value="2" max="100"></progress> 2%
 
 ---
 
