@@ -90,9 +90,22 @@ Example / Exemple : `quran-text/(lang)/surah/index.json`
 | `revelation_type` | `"Makkia"` or `"Madaniya"` | `"Makkia"` ou `"Madaniya"` |
 | `translated_by` | Translator or source name | Nom du traducteur ou source |
 
-### Fichier `juz.json`
+### 📄 Juz File | Fichier Juz
 
-Liste des 30 Juz avec début et fin en termes de sourate et verset, pour découpage précis.
+JSON file listing the 30 divisions (Juz) of the Quran, with their starting and ending Surah/Ayah.  
+Fichier JSON listant les 30 divisions (Juz) du Coran, avec leur début et fin (Sourate/Ayah).  
+
+Example / Exemple : `data/juz.json`
+
+| Key | Description (EN) | Description (FR) |
+|-----|------------------|------------------|
+| `juz_number` | Juz number (1–30) | Numéro du Juz (1–30) |
+| `start` | Starting point of the Juz | Point de départ du Juz |
+| `start.surah_number` | Surah number where the Juz starts | Numéro de la sourate où commence le Juz |
+| `start.verse_number` | Verse number where the Juz starts | Numéro du verset où commence le Juz |
+| `end` | Ending point of the Juz | Point de fin du Juz |
+| `end.surah_number` | Surah number where the Juz ends | Numéro de la sourate où se termine le Juz |
+| `end.verse_number` | Verse number where the Juz ends | Numéro du verset où se termine le Juz |
 
 ---
 
