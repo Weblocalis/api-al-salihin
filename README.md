@@ -89,8 +89,6 @@ Example / Exemple : `data/quran-text/ar/surah/index.json`
 | `revelation_place` | `"Mecca"` or `"Medina"` | `"Mecque"` ou `"Médine"` |
 | `revelation_type` | `"Makkia"` or `"Madaniya"` | `"Makkia"` ou `"Madaniya"` |
 
----
-
 ### 📄 surah.json
 
 JSON file containing the full Quran text for one Surah (all verses).  
