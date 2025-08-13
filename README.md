@@ -1,3 +1,4 @@
+> بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 # Quran API - Al Salihin
 
 **Static API to access the Quran text, Juz divisions, and Tafsir in multiple languages.**
