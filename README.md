@@ -128,13 +128,44 @@ Example / Exemple : `data/juz.json`
 
 ---
 
-## Utilisation de l’API
+## Utilisation de l’API | API Usage
 
-Les fichiers JSON sont accessibles via URLs structurées, par exemple :
+Les fichiers JSON sont accessibles via des URLs structurées, par exemple :  
+The JSON files are accessible via structured URLs, for example:
 
-- `https://api.al-salihin.com/data/quran-text/fr/surah/001.json` 
-- `https://api.al-salihin.com/data/juz.json`
+- `https://api.al-salihin.com/data/quran-text/fr/surah/001.json`  
+  (Texte complet de la sourate 1 en français / Full text of Surah 1 in French)
 
+- `https://api.al-salihin.com/data/juz.json`  
+  (Découpage par Juz / Juz division)
+
+---
+
+Ces URLs permettent à toute application ou utilisateur d’accéder facilement aux données du Coran et aux Tafsir.  
+These URLs allow any application or user to easily access Quran data and Tafsir.
+
+---
+
+### Exemple de requête JavaScript | JavaScript Fetch Example
+
+```js
+// Exemple pour récupérer la sourate 1 (Al-Fatiha) en français
+fetch('https://api.al-salihin.com/data/quran-text/fr/surah/001.json')
+  .then(response => {
+    if (!response.ok) {
+      throw new Error('Erreur réseau : ' + response.status);
+    }
+    return response.json();
+  })
+  .then(data => {
+    console.log('Sourate:', data.name_ar, '(en français)');
+    data.verses.forEach(verse => {
+      console.log(`Verset ${verse.verse_number}: ${verse.text}`);
+    });
+  })
+  .catch(error => {
+    console.error('Erreur lors de la récupération:', error);
+  });
 ---
 
 ## Contribution
