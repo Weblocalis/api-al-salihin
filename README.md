@@ -1,4 +1,4 @@
-> <p align="center" dir="rtl" lang="ar" style="font-size:2.5em; font-style: italic; color: #0d6efd;">
+> <p align="center" dir="rtl" lang="ar" style="font-size:1.5em; font-style: italic; color: #0d6efd;">
 > بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 > </p>
 
