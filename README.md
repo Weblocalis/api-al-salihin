@@ -166,7 +166,7 @@ fetch('https://api.al-salihin.com/data/quran-text/fr/surah/001.json')
   .catch(error => {
     console.error('Erreur lors de la récupération:', error);
   });
-...
+```
 ---
 
 ## Contribution
