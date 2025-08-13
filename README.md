@@ -79,12 +79,12 @@ Path / Chemin : `quran-text/(lang)/surah/<001:114>.json`
 | `verses[].verse_number` | Verse number | Numéro du verset |
 | `verses[].text` | Verse text | Texte du verset |
 
-### 📄 index.json
+### 📄 surah/index.json
 
 JSON file listing metadata for all Surahs in a given language (like a table of contents).  
 Fichier JSON listant les métadonnées de toutes les sourates dans une langue donnée (comme une table des matières).  
 
-Example / Exemple : `data/quran-text/ar/surah/index.json`
+Example / Exemple : `data/quran-text/(lang)/surah/index.json`
 
 | Key | Description (EN) | Description (FR) |
 |-----|------------------|------------------|
@@ -101,7 +101,7 @@ Example / Exemple : `data/quran-text/ar/surah/index.json`
 JSON file containing the full Quran text for one Surah (all verses).  
 Fichier JSON contenant le texte complet d’une sourate (tous les versets).  
 
-Example / Exemple : `data/quran-text/ar/surah/001.json`
+Example / Exemple : `data/quran-text/(lang)/surah.json`
 
 | Key | Description (EN) | Description (FR) |
 |-----|------------------|------------------|
@@ -116,10 +116,11 @@ Example / Exemple : `data/quran-text/ar/surah/001.json`
 | `verses[].verse_number` | Verse number | Numéro du verset |
 | `verses[].text` | Verse text | Texte du verset |
 
-### 📄 Juz File | Fichier Juz
+### 📄 Juz File
 
 JSON file listing the 30 divisions (Juz) of the Quran, with their starting and ending Surah/Ayah.  
-Fichier JSON listant les 30 divisions (Juz) du Coran, avec leur début et fin (Sourate/Ayah).  
+
+🇫🇷 : Fichier JSON listant les 30 divisions (Juz) du Coran, avec leur début et fin (Sourate/Ayah).  
 
 Example / Exemple : `data/juz.json`
 
