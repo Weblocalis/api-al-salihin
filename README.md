@@ -14,6 +14,7 @@
 ![Contributors](https://img.shields.io/github/contributors/Weblocalis/quran-api-al-salihin?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/Weblocalis/quran-api-al-salihin?style=flat-square)
 ![Pull Requests](https://img.shields.io/github/issues-pr/Weblocalis/quran-api-al-salihin?style=flat-square)
+![Made with ❤️ by Al Salihin](https://img.shields.io/badge/Made%20with-%E2%9D%A4%20by%20Al%20Salihin-red?style=flat-square)
 
 **Static API to access the Quran text, Juz divisions, and Tafsir in multiple languages.**  
 API statique pour accéder au texte du Coran, aux découpages par Juz et aux Tafsir en plusieurs langues.
