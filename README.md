@@ -6,13 +6,6 @@ API statique pour accéder au texte du Coran, aux découpages par Juz et aux Taf
 
 ## Structure du projet
 
-/data /quran-text /{lang}             
-# Dossiers par langue (ar, fr, en, etc.) 
-/surah 001.json        
-# Fichier sourate individuel index.json      
-# Index des sourates dans cette langue /tafsir /{lang}             
-# Tafsir par langue juz.json              
-# Découpage précis du Coran en 30 Juz CONTRIBUTING.md LICENSE README.md
 
 ---
 
