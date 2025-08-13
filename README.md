@@ -16,8 +16,8 @@ API statique pour accéder au texte du Coran, aux découpages par Juz et aux Taf
 
 ## Project Structure / Structure du projet
 
-**EN:** The `data` folder contains all Quran text data and Tafsir (commentaries), organized by language.  
-**FR:** Le dossier `data` contient toutes les données textuelles et les commentaires (tafsir) du Coran, organisés par langue.
+**🇬🇧:** The `data` folder contains all Quran text data and Tafsir (commentaries), organized by language.  
+**🇫🇷:** Le dossier `data` contient toutes les données textuelles et les commentaires (tafsir) du Coran, organisés par langue.
 
 ```sh
 .
