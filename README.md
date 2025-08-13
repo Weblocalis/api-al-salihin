@@ -184,12 +184,12 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ---
 ## Auteur | Author
 
-**Abdelhak Mharzi**  
+**A. Mharzi** / **WebLocalis**
+
 [![AbSphere](https://img.shields.io/github/followers/AbSphere?label=AbSphere&style=social)](https://github.com/AbSphere) &nbsp;&nbsp;|&nbsp;&nbsp; [![Weblocalis](https://img.shields.io/github/followers/Weblocalis?label=Weblocalis&style=social)](https://github.com/Weblocalis)
 
-## Contact
-
-Pour toute question, suggestion ou problème, merci d’ouvrir une issue sur GitHub.
+Contributions, suggestions et questions sont les bienvenues !  
+Vous pouvez me contacter via GitHub ou [email](mailto: abdelhakmharz@gmail.com).
 
 ---
 
