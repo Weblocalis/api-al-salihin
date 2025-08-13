@@ -44,7 +44,7 @@ API statique pour accéder au texte du Coran, aux découpages par Juz et aux Taf
 
 ## Contenu des fichiers
 
-### Fichier sourate individuel (`001.json`)
+### Fichier surah/ar individuel (`001.json`)
 
 - `surah_number` : numéro de la sourate (1-114)  
 - `lang` : code langue (ex: "fr", "ar")  
