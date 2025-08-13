@@ -1,6 +1,7 @@
 {
   "surah_number": 1,
-  "lang": "ar",
+  "lang": "fr",
+  "name": "Al-Fatiha",
   "name_ar": "الفاتحة",
   "verses_count": 7,
   "revelation_place": "Mecque",
@@ -9,8 +10,8 @@
   "verses": [
     {
       "verse_number": 1,
-      "text": ""
+      "text": "Au nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux."
     }
-  
+    
   ]
 }
