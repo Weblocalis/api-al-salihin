@@ -195,7 +195,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 [![AbSphere](https://img.shields.io/github/followers/AbSphere?label=AbSphere&style=social)](https://github.com/AbSphere) &nbsp;&nbsp;|&nbsp;&nbsp; [![Weblocalis](https://img.shields.io/github/followers/Weblocalis?label=Weblocalis&style=social)](https://github.com/Weblocalis)
 
 Contributions, suggestions et questions sont les bienvenues !  
-Vous pouvez me contacter via GitHub ou [email](mailto: abdelhakmharz@gmail.com).
+Vous pouvez me contacter via GitHub ou [email](mailto:abdelhakmharzi@gmail.com).
 
 ---
 
