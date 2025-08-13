@@ -136,13 +136,15 @@ Example / Exemple : `data/juz.json`
 
 ---
 
-## Utilisation de l’API | API Usage
+## API Usage
 
-Les fichiers JSON sont accessibles via des URLs structurées, par exemple :  
-The JSON files are accessible via structured URLs, for example:
+🇫🇷 : Les fichiers JSON sont accessibles via des URLs structurées, par exemple :  
 
-- `https://api.al-salihin.com/data/quran-text/fr/surah/001.json`  
-  (Texte complet de la sourate 1 en français / Full text of Surah 1 in French)
+*The JSON files are accessible via structured URLs, for example:*
+
+- `https://api.al-salihin.com/data/quran-text/{lang}/surah/<001:114>.json`
+
+- `https://api.al-salihin.com/data/quran-text/*{lang}*/surah.json`
 
 - `https://api.al-salihin.com/data/juz.json`  
   (Découpage par Juz / Juz division)
