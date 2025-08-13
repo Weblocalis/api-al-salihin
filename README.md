@@ -38,7 +38,8 @@ Liste des 30 Juz avec début et fin en termes de sourate et verset, pour découp
 
 Les fichiers JSON sont accessibles via URLs structurées, par exemple :
 
-- `https://api.al-salihin.com/data/quran-text/fr/surah/001.json` - `https://api.al-salihin.com/data/juz.json`
+- `https://api.al-salihin.com/data/quran-text/fr/surah/001.json` 
+- `https://api.al-salihin.com/data/juz.json`
 
 ---
 
