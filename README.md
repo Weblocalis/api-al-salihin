@@ -2,6 +2,10 @@
 > بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 > </p>
 
+> <p align="center" dir="rtl" lang="ar" style="font-size:1.3em; font-weight: bold; color: #198754;">
+> السلام عليكم
+> </p>
+
 # Quran API - Al Salihin
 
 ![License](https://img.shields.io/github/license/Weblocalis/quran-api-al-salihin?style=flat-square)
