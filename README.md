@@ -51,12 +51,16 @@ Cette section décrit la structure de chaque fichier JSON contenant le texte du 
 
 Chaque fichier de sourate suit un schéma cohérent pour être facilement exploitable dans toute application.
 
-### 🗂 Individual File 
+### 🗂 Individual File | Fichier individuel
 
-(`quran-text/ar/surah/<001:114>.json`)
+> JSON database of individual Surahs.  
+Base de données JSON des sourates individuelles.  
+
+Example / Exemple : **Al-Fatiha → `001.json`**  
+Path / Chemin : `quran-text/(lang)/surah/<001:114>.json`
 
 | Key | Description (EN) | Description (FR) |
-|-----|-----------------|------------------|
+|-----|------------------|------------------|
 | `surah_number` | Surah number (1–114) | Numéro de la sourate (1–114) |
 | `lang` | Language code (e.g., `"ar"`) | Code langue (ex: `"ar"`) |
 | `name_ar` | Original Arabic name | Nom arabe original |
