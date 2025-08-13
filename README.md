@@ -1,6 +1,6 @@
 # Quran API - Al Salihin
 
-Static API to access the Quran text, Juz divisions, and Tafsir in multiple languages.
+**Static API to access the Quran text, Juz divisions, and Tafsir in multiple languages.**
 
 API statique pour accéder au texte du Coran, aux découpages par Juz et aux Tafsir en plusieurs langues.
 
