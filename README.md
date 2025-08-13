@@ -57,6 +57,24 @@ API statique pour accéder au texte du Coran, aux découpages par Juz et aux Taf
   - `verse_number` : numéro du verset  
   - `text` : texte du verset  
 
+---
+## 📄 File Contents | Contenu des fichiers
+
+### 🗂 Individual File (`quran-text/ar/surah/<001:114>.json`)
+
+| Key | Description (EN) | Description (FR) |
+|-----|-----------------|------------------|
+| `surah_number` | Surah number (1–114) | Numéro de la sourate (1–114) |
+| `lang` | Language code (e.g., `"ar"`) | Code langue (ex: `"ar"`) |
+| `name_ar` | Original Arabic name | Nom arabe original |
+| `verses_count` | Total number of verses | Nombre total de versets |
+| `revelation_place` | `"Mecca"` or `"Medina"` | `"Mecque"` ou `"Médine"` |
+| `revelation_type` | `"Makkia"` or `"Madaniya"` | `"Makkia"` ou `"Madaniya"` |
+| `translated_by` | Translator or source name | Nom du traducteur ou source |
+| `verses` | Array of verses | Tableau des versets |
+| `verses[].verse_number` | Verse number | Numéro du verset |
+| `verses[].text` | Verse text | Texte du verset |
+
 ### Fichier `index.json` (dans chaque langue)
 
 Liste des sourates disponibles avec métadonnées et chemin vers fichier.
