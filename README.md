@@ -44,10 +44,10 @@ API statique pour accéder au texte du Coran, aux découpages par Juz et aux Taf
 
 ## Contenu des fichiers
 
-### Fichier surah/ar individuel (`001.json`)
+### Fichier individuel (`quran-text/ar/surah/<001:114>.json`)
 
 - `surah_number` : numéro de la sourate (1-114)  
-- `lang` : code langue (ex: "fr", "ar")  
+- `lang` : code langue (ex: "ar")  
 - `name_ar` : nom arabe original  
 - `verses_count` : nombre total de versets  
 - `revelation_place` : "Mecque" ou "Médine"  
