@@ -185,10 +185,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ## Auteur | Author
 
 **Abdelhak Mharzi**  
-
-[![GitHub followers](https://img.shields.io/github/followers/AbSphere?label=AbSphere&style=social)](https://github.com/AbSphere)  
-[![GitHub followers](https://img.shields.io/github/followers/Weblocalis?label=Weblocalis&style=social)](https://github.com/Weblocalis)
-
+[![AbSphere](https://img.shields.io/github/followers/AbSphere?label=AbSphere&style=social)](https://github.com/AbSphere) &nbsp;&nbsp;|&nbsp;&nbsp; [![Weblocalis](https://img.shields.io/github/followers/Weblocalis?label=Weblocalis&style=social)](https://github.com/Weblocalis)
 
 ## Contact
 
