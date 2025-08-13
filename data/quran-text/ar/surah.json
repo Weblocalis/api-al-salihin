@@ -1,9 +1,8 @@
 {
   "surah_number": 1,
   "lang": "ar",
-  "name_ar": "الفاتحة",
+  "name_latine": "",
+  "name": "الفاتحة",
   "verses_count": 7,
-  "revelation_place": "Mecque",
-  "translated_by": "Muhammad Hamidullah",
-  "description": "Introduction au Coran, louange à Allah."
+  "revelation_place": "Mecque"
 }
