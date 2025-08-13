@@ -20,6 +20,19 @@
 API statique pour accéder au texte du Coran, aux découpages par Juz et aux Tafsir en plusieurs langues.
 
 ---
+## 📑 Table des matières | Table of Contents
+
+- [📖 Introduction](#-introduction)
+- [📂 Structure du projet | Project Structure](#-structure-du-projet--project-structure)
+- [🗂 Contenu des fichiers | File Contents](#-contenu-des-fichiers--file-contents)
+  - [Surah individuelle | Individual Surah](#-individual-file)
+  - [Fichier surah.json complet](#-fichier-surahjson)
+- [🌐 Utilisation de lAPI | API Usage](#-utilisation-de-lapi--api-usage)
+- [👤 Auteur | Author](#-auteur--author)
+- [📜 Licence | License](#-licence--license)
+- [🤝 Contribution | Contributing](#-contribution--contributing)
+
+---
 
 ## Project Structure / Structure du projet
 
