@@ -10,9 +10,36 @@ API statique pour accéder au texte du Coran, aux découpages par Juz et aux Taf
 ## Folder structure
 ```sh
 .
+├── CONTRIBUTING.md
 ├── LICENSE
 ├── README.md
-└── 
+└── data
+    ├── juz.json
+    ├── quran-text
+    │   ├── ar
+    │   │   └── surah
+    │   │       ├── 001.json
+    │   │       ├── 002.json
+    │   │       ├── 003.json
+    │   │       └── index.json
+    │   ├── de
+    │   ├── en
+    │   ├── es
+    │   ├── fr
+    │   │   └── surah
+    │   │       ├── 001.json
+    │   │       └── index.json
+    │   ├── id
+    │   ├── ja
+    │   ├── ms
+    │   ├── ru
+    │   ├── tr
+    │   ├── ur
+    │   └── zh
+    └── tafsir
+        ├── ar
+        ├── en
+        └── fr
 ```
 
 ---
