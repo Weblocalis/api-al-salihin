@@ -7,7 +7,7 @@ API statique pour accéder au texte du Coran, aux découpages par Juz et aux Taf
 
 ---
 
-## Structure du projet
+## Folder structure
 
 
 ---
