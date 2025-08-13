@@ -13,10 +13,8 @@ API statique pour accéder au texte du Coran, aux découpages par Juz et aux Taf
 
 ### Fichier sourate individuel (`001.json`)
 
-- `type` : `"surah"`  
 - `surah_number` : numéro de la sourate (1-114)  
 - `lang` : code langue (ex: "fr", "ar")  
-- `name` : nom de la sourate dans la langue concernée  
 - `name_ar` : nom arabe original  
 - `verses_count` : nombre total de versets  
 - `revelation_place` : "Mecque" ou "Médine"  
@@ -40,7 +38,7 @@ Liste des 30 Juz avec début et fin en termes de sourate et verset, pour découp
 
 Les fichiers JSON sont accessibles via URLs structurées, par exemple :
 
-https://api.al-salihin.com/data/quran-text/fr/surah/001.json https://api.al-salihin.com/data/juz.json
+- `https://api.al-salihin.com/data/quran-text/fr/surah/001.json` - `https://api.al-salihin.com/data/juz.json`
 
 ---
 
