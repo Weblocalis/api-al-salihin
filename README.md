@@ -200,10 +200,10 @@ We welcome contributions for:
 ### 📊 Progression des contributions
 
 **Quran Text**
-- Arabic (original) : <progress value="100" max="100"></progress> 100%
-- French : <progress value="45" max="100"></progress> 45%
-- English : <progress value="30" max="100"></progress> 30%
-- Spanish : <progress value="10" max="100"></progress> 10%
+- Ar : <progress value="100" max="100"></progress> 100%
+- Fr : <progress value="45" max="100"></progress> 45%
+- En : <progress value="30" max="100"></progress> 30%
+- es : <progress value="10" max="100"></progress> 10%
 
 **Tafsir**
 - Ibn Kathir (Arabic) : <progress value="15" max="100"></progress> 15%
