@@ -1,36 +1,36 @@
 > بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
 # Quran API - Al Salihin
 
-**Static API to access the Quran text, Juz divisions, and Tafsir in multiple languages.**
-
+**Static API to access the Quran text, Juz divisions, and Tafsir in multiple languages.**  
 API statique pour accéder au texte du Coran, aux découpages par Juz et aux Tafsir en plusieurs langues.
 
 ---
 
-## Project Structure
+## Project Structure / Structure du projet
 
-**The `data` folder contains all Quran text data and Tafsir (commentaries), organized by language.**
-
-Le dossier `data` contient toutes les données textuelles et les commentaires (tafsir) du Coran, organisés par langue.
+**EN:** The `data` folder contains all Quran text data and Tafsir (commentaries), organized by language.  
+**FR:** Le dossier `data` contient toutes les données textuelles et les commentaires (tafsir) du Coran, organisés par langue.
 
 ```sh
-. 
-├── CONTRIBUTING.md 
-├── LICENSE 
-├── README.md 
-└── data 
-├── juz.json # Division of the Quran into 30 Juz 
-├── quran-text # Quran text 
-│   ├── ar # Arabic (original) 
-│   │   └── surah # Surahs in JSON files 
-│   ├── fr # French (translations) 
-│   │   └── surah 
-│   ├── en # English 
-│   ├── ... # Other languages (de, es, id, etc.) 
-└── tafsir    # Commentaries (Tafsir) 
-├── ar 
-├── fr 
-└── en
+.
+├── CONTRIBUTING.md
+├── LICENSE
+├── README.md
+└── data
+    ├── juz.json          # EN: Division of the Quran into 30 Juz
+    │                     # FR: Division du Coran en 30 Juz
+    ├── quran-text        # EN: Quran text / FR: Texte du Coran
+    │   ├── ar            # Arabic (original)
+    │   │   └── surah     # Surahs in JSON files
+    │   ├── fr            # French (translation)
+    │   │   └── surah
+    │   ├── en            # English
+    │   ├── ...           # Other languages (de, es, id, etc.)
+    └── tafsir            # EN: Commentaries (Tafsir) / FR: Commentaires (Tafsir)
+        ├── ar
+        ├── fr
+        └── en
 ```
 > Each language folder contains Surahs as individual JSON files (e.g., `001.json`) and an `index.json` file listing all Surahs.
 ---
