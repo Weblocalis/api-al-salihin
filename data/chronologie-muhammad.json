@@ -1,0 +1,110 @@
+[
+  {
+    "annee": "570",
+    "titre": "Naissance à La Mecque",
+    "description": "Le Prophète Muhammad (paix soit sur lui) est né à La Mecque dans la tribu des Quraysh.",
+    "hijri": "env. 52 avant l'Hégire"
+  },
+  {
+    "annee": "610",
+    "titre": "Première révélation dans la grotte de Hira",
+    "description": "L’ange Jibril (Gabriel) révèle les premiers versets du Coran.",
+    "hijri": "env. 13 avant l'Hégire"
+  },
+  {
+    "annee": "613",
+    "titre": "Début de la prédication publique",
+    "description": "Le Prophète appelle les Qurayshens à l’Islam de façon ouverte.",
+    "hijri": "env. 10 avant l'Hégire"
+  },
+  {
+    "annee": "615",
+    "titre": "Première émigration vers l’Abyssinie",
+    "description": "Certains compagnons fuient les persécutions et trouvent refuge auprès du roi chrétien d'Abyssinie.",
+    "hijri": "env. 8 avant l'Hégire"
+  },
+  {
+    "annee": "619",
+    "titre": "Année de la douleur",
+    "description": "Décès de Khadija et d’Abu Talib, deux soutiens majeurs du Prophète.",
+    "hijri": "env. 5 avant l'Hégire"
+  },
+  {
+    "annee": "621",
+    "titre": "Isra et Miʿraj",
+    "description": "Voyage nocturne miraculeux jusqu’à Jérusalem puis ascension aux cieux.",
+    "hijri": "1 an avant l'Hégire"
+  },
+  {
+    "annee": "622",
+    "titre": "Hégire vers Médine",
+    "description": "Début du calendrier hégirien et fondation de la première communauté islamique.",
+    "hijri": "1 AH"
+  },
+  {
+    "annee": "624",
+    "titre": "Bataille de Badr",
+    "description": "Victoire décisive contre les Qurayshens malgré l'infériorité numérique.",
+    "hijri": "17 Ramadan 2 AH"
+  },
+  {
+    "annee": "625",
+    "titre": "Bataille d’Uhud",
+    "description": "Revers militaire dû à la désobéissance d’un groupe d’archers.",
+    "hijri": "3 AH"
+  },
+  {
+    "annee": "627",
+    "titre": "Bataille du Fossé (Khandaq)",
+    "description": "Les musulmans défendent Médine avec un fossé stratégique.",
+    "hijri": "5 AH"
+  },
+  {
+    "annee": "628",
+    "titre": "Traité de Hudaybiyyah",
+    "description": "Accord de paix temporaire avec les Quraysh.",
+    "hijri": "6 AH"
+  },
+  {
+    "annee": "629",
+    "titre": "Bataille de Khaybar",
+    "description": "Victoire contre les tribus juives de Khaybar.",
+    "hijri": "7 AH"
+  },
+  {
+    "annee": "630",
+    "titre": "Conquête de La Mecque",
+    "description": "Entrée pacifique à La Mecque. Destruction des idoles et pardon général.",
+    "hijri": "8 AH"
+  },
+  {
+    "annee": "630",
+    "titre": "Bataille de Hunayn",
+    "description": "Victoire contre la coalition tribale malgré un début difficile.",
+    "hijri": "8 AH"
+  },
+  {
+    "annee": "630",
+    "titre": "Siège de Ta’if",
+    "description": "Échec du siège mené après Hunayn, mais les habitants se convertiront plus tard.",
+    "hijri": "8 AH"
+  },
+  {
+    "annee": "631",
+    "titre": "Expédition de Tabuk",
+    "description": "Longue marche sans combat, pour affirmer l’autorité musulmane face aux Byzantins.",
+    "hijri": "9 AH"
+  },
+  {
+    "annee": "632",
+    "titre": "Pèlerinage d’adieu",
+    "description": "Dernier Hajj du Prophète. Sermon d’adieu prononcé à Arafat.",
+    "hijri": "10 AH"
+  },
+  {
+    "annee": "632",
+    "titre": "Décès du Prophète",
+    "description": "Le Prophète Muhammad (paix soit sur lui) retourne vers son Seigneur à Médine.",
+    "hijri": "12 Rabiʿ al-Awwal 11 AH"
+  }
+]

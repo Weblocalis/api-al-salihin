@@ -1,0 +1,247 @@
+[
+{
+  "nom": {
+    "phonetique": "Saud Al Shuraim",
+    "arabe": "سعود الشريم"
+  },
+  "slug": "saud-al-shuraim",
+  "courtBio": "Saud Al Shuraim est un célèbre réciteur et imam de la Mosquée Sacrée de La Mecque.",
+  "bioHtml": "<p>Cheikh <strong>Saud Ibn Ibrahim Al Shuraim</strong> est l’un des plus éminents récitateurs du Saint Coran. Il est connu pour son style de récitation sobre et profond, ainsi que pour ses fonctions d’imam à la <em>Masjid Al-Haram</em>.</p>",
+  "portrait": "../cdn/img/recitateurs/saud-al-shuraim.jpeg",
+  "galerie": [
+    "../cdn/img/galeries/saud-al-shuraim/sheikh-saud-shuraim-demissionne.jpeg",
+    "../cdn/img/galeries/saud-al-shuraim/sheikh-saud-al-shuraim-ramadan-in-masjid-al-haram.jpeg"
+  ],
+  "dateNaissance": "1964",
+  "lieuNaissance": "Riyad",
+  "paysNaissance": "Arabie Saoudite",
+  "reseaux": [
+    {
+      "nom": "YouTube",
+      "url": "https://youtube.com/@shuraym1414",
+      "icone": "youtube"
+    },
+    {
+      "nom": "Instagram",
+      "url": "https://www.instagram.com/saud_shuraim/",
+      "icone": "instagram"
+    }
+  ], 
+  "enseignement": ["Mosquée Al-Haram", "Université Oum Al-Qoura"],
+  "ouvrages": [
+    "Al-Mahdi al Mountadhar dans Ahl-us-Sunnah wa Al Jamâ`a", "Les principes de Al-Fiqh : questions et réponses, procédés."
+  ],
+  "styles": ["tadjwid", "mujawwad"]
+},
+{
+  "nom": {
+    "phonetique": "Abdul Rahman Al Sudais",
+    "arabe": "عبد الرحمن السديس"
+  },
+  "slug": "abdul-rahman-al-sudais",
+  "courtBio": "Abdul Rahman Al Sudais est l'un des récitateurs les plus connus au monde, imam de la Mosquée Sacrée de La Mecque.",
+  "bioHtml": "<p><strong>Cheikh Abdul Rahman Al Sudais</strong> est célèbre pour sa voix puissante et émotive. Né en Arabie Saoudite, il est devenu imam de la <em>Masjid al-Haram</em> à La Mecque. Son style de récitation est apprécié pour sa clarté, son émotion et son respect rigoureux des règles du tajwid.</p>",
+  "portrait": "../cdn/img/recitateurs/abdul-rahman-al-sudais.png",
+  "dateNaissance": "1960",
+  "lieuNaissance": "Riyad",
+  "paysNaissance": "Arabie Saoudite",
+"reseaux": [
+  {
+    "nom": "YouTube",
+    "url": "https://youtube.com/channel/UCg5Z-DqpwKISTkrjT0IV50w",
+    "icone": "youtube"
+  },
+  {
+    "nom": "Instagram",
+    "url": "https://www.instagram.com/shaykh_sudais/",
+    "icone": "instagram"
+  }
+],
+  "enseignement": ["Université islamique de Riyad", "Mosquée al-Haram"],
+  "styles": ["tadjwid", "mujawwad"]
+},  
+{
+  "nom": {
+    "phonetique": "Mishary Rashid Alafasy",
+    "arabe": "مشاري راشد العفاسي"
+  },
+  "slug": "mishary-rashid-alafasy",
+  "courtBio": "Mishary Rashid Alafasy est un réciteur et chanteur religieux koweïtien très connu pour ses récitations du Coran et ses anashids.",
+  "bioHtml": "<p><strong>Cheikh Mishary Rashid Alafasy</strong> est un réciteur du Coran et un chanteur d’anashid originaire du <strong>Koweït</strong>. Il est connu dans le monde entier pour la beauté et la douceur de sa voix. Diplômé de l’Université islamique de Médine, il a perfectionné l’art de la récitation coranique selon plusieurs qirâ’ât. Il est également célèbre pour ses chants islamiques (anashid) diffusés dans de nombreuses langues.</p>",
+  "portrait": "../cdn/img/recitateurs/mishary-rashid-alafasy.jpeg",
+  "dateNaissance": "1976-09-05",
+  "lieuNaissance": "Koweït",
+  "paysNaissance": "Koweït",
+"reseaux": [
+  {
+    "nom": "Site officiel",
+    "url": "https://misharialafasy.com/",
+    "icone": "globe"
+  },
+  {
+    "nom": "YouTube",
+    "url": "https://youtube.com/@alafasy",
+    "icone": "youtube"
+  },
+  {
+    "nom": "Instagram",
+    "url": "https://www.instagram.com/alafasy/",
+    "icone": "instagram"
+  },
+  {
+    "nom": "X",
+    "url": "https://x.com/alafasy",
+    "icone": "twitter"
+  }
+],
+  "enseignement": ["Université islamique de Médine"],
+  "styles": ["tadjwid", "mujawwad", "anashid"]
+},  
+{
+  "nom": {
+    "phonetique": "Maher Al Muaiqly",
+    "arabe": "ماهر المعيقلي"
+  },
+  "slug": "maher-al-muaiqly",
+  "courtBio": "Maher Al Muaiqly est un imam et réciteur du Coran saoudien, connu pour ses récitations émouvantes à la Mosquée sacrée de La Mecque.",
+  "bioHtml": "<p><strong>Cheikh Maher Al Muaiqly</strong> est un célèbre réciteur et imam saoudien. Il est l'un des imams de <strong>la Mosquée al-Haram à La Mecque</strong>. Reconnu pour la clarté de son tajwid et son intonation émotionnelle, ses récitations touchent des millions de fidèles à travers le monde. Il a étudié la jurisprudence islamique et détient un doctorat en fiqh.</p>",
+  "portrait": "../cdn/img/recitateurs/maher-al-muaiqly.jpeg",
+  "dateNaissance": "1969-01-07",
+  "lieuNaissance": "Médine",
+  "paysNaissance": "Arabie Saoudite",
+"reseaux": [
+],
+  "enseignement": ["Université Oum Al-Qoura", "Doctorat en jurisprudence islamique"],
+  "styles": ["tadjwid", "mujawwad"]
+}, 
+{
+  "nom": {
+    "phonetique": "Abu Bakr Al Shatri",
+    "arabe": "أبو بكر الشاطري"
+  },
+  "slug": "abu-bakr-al-shatri",
+  "courtBio": "Abu Bakr Al Shatri est un célèbre récitateur du Coran d'origine saoudienne, apprécié pour la douceur de sa voix et la clarté de sa récitation.",
+  "bioHtml": "<p><strong>Cheikh Abu Bakr Al Shatri</strong> est un récitateur saoudien d’origine yéménite. Il est connu pour la <strong>douceur et la fluidité</strong> de sa récitation, très prisée dans les pays arabes et ailleurs. Il a obtenu son diplôme de l’Université Cheikh Ibn Saoud et a dirigé la prière dans plusieurs mosquées à Djeddah et ailleurs.</p>",
+  "portrait": "../cdn/img/recitateurs/abu-bakr-al-shatri.jpeg",
+  "dateNaissance": "1970-01-01",
+  "lieuNaissance": "Djeddah",
+  "paysNaissance": "Arabie Saoudite",
+"reseaux": [
+
+],
+  "enseignement": ["Université Cheikh Ibn Saoud"],
+  "styles": ["mujawwad", "tadjwid"]
+},  
+{
+  "nom": {
+    "phonetique": "Saad Al Ghamdi",
+    "arabe": "سعد الغامدي"
+  },
+  "slug": "saad-al-ghamdi",
+  "courtBio": "Saad Al Ghamdi est un récitateur saoudien reconnu pour son style posé, clair et méditatif dans la récitation du Coran.",
+  "bioHtml": "<p><strong>Cheikh Saad Al Ghamdi</strong> est un célèbre récitateur et imam saoudien. Il s'est distingué par une récitation mélodieuse et sereine, très appréciée dans le monde musulman. Il a mémorisé le Coran en 1990 et a ensuite étudié les sciences islamiques à l’Université islamique de Médine. Il a dirigé les prières dans plusieurs mosquées prestigieuses, notamment à Dammam.</p>",
+  "portrait": "../cdn/img/recitateurs/saad-al-ghamdi.jpeg",
+  "dateNaissance": "1967-05-19",
+  "lieuNaissance": "Dammam",
+  "paysNaissance": "Arabie Saoudite",
+"reseaux": [
+
+],
+  "enseignement": ["Université islamique de Médine"],
+  "styles": ["murattal", "tadjwid"]
+},
+{
+  "nom": {
+    "phonetique": "Ali Al Hudhaify",
+    "arabe": "علي الحذيفي"
+  },
+  "slug": "ali-al-hudhaify",
+  "courtBio": "Ali Al Hudhaify est un célèbre imam et récitateur du Coran connu pour son style solennel et sa récitation claire et méthodique.",
+  "bioHtml": "<p><strong>Cheikh Ali Al Hudhaify</strong> est un imam de la mosquée du Prophète à Médine, reconnu pour son style de récitation lent, réfléchi et profondément respectueux des règles du <em>tadjwid</em>. Titulaire d'un doctorat en jurisprudence islamique, il a également enseigné à l’Université islamique de Médine.</p>",
+  "portrait": "../cdn/img/recitateurs/ali-al-hudhaify.jpg",
+  "dateNaissance": "1947-01-01",
+  "lieuNaissance": "Al Ula",
+  "paysNaissance": "Arabie Saoudite",
+"reseaux": [
+
+],
+  "enseignement": ["Université islamique de Médine"],
+  "styles": ["murattal", "tadjwid"]
+},
+{
+  "nom": {
+    "phonetique": "Yasser Al Dossari",
+    "arabe": "ياسر الدوسري"
+  },
+  "slug": "yasser-al-dossari",
+  "courtBio": "Yasser Al Dossari est un imam et récitateur saoudien réputé pour sa voix douce, émotive et ses récitations profondes.",
+  "bioHtml": "<p><strong>Cheikh Yasser bin Rashed Al Dossari</strong> est un imam saoudien reconnu pour sa voix mélodieuse et sa récitation empreinte de spiritualité. Il a été nommé imam de la Mosquée Al-Haram à La Mecque. Titulaire d’un doctorat en jurisprudence islamique, il est également professeur et membre du Conseil des savants saoudiens.</p>",
+  "portrait": "../cdn/img/recitateurs/yasser-al-dossari.jpg",
+  "dateNaissance": "1980-09-06",
+  "lieuNaissance": "Al-Kharj",
+  "paysNaissance": "Arabie Saoudite",
+"reseaux": [
+  {
+    "nom": "YouTube",
+    "url": "https://youtube.com/@yasseraldosry",
+    "icone": "youtube"
+  },
+   {
+      "nom": "Instagram",
+      "url": "https://www.instagram.com/sheikhdossary/",
+      "icone": "instagram"
+    }
+
+],
+  "enseignement": ["Université Imam Muhammad ibn Saud", "Conseil des grands ouléma"],
+  "styles": ["émotionnel", "murattal", "rythmé"]
+},  
+{
+  "nom": {
+    "phonetique": "Ahmed Al Ajmi",
+    "arabe": "أحمد العجمي"
+  },
+  "slug": "ahmed-al-ajmi",
+  "courtBio": "Ahmed Al Ajmi est un récitateur saoudien célèbre pour sa voix chaleureuse et ses récitations inspirantes.",
+  "bioHtml": "<p><strong>Cheikh Ahmed Al Ajmi</strong> est un récitateur et imam saoudien très apprécié pour la douceur et la clarté de sa voix. Il est connu à travers le monde musulman grâce à ses récitations du Coran diffusées largement sur internet et dans les mosquées.</p>",
+  "portrait": "../cdn/img/recitateurs/ahmed-al-ajmi.jpg",
+  "dateNaissance": "1968-08-05",
+  "lieuNaissance": "Riyad",
+  "paysNaissance": "Arabie Saoudite",
+"reseaux": [
+
+],
+  "enseignement": [],
+  "styles": ["murattal", "émotionnel", "rythmé"]
+},
+{
+  "nom": {
+    "phonetique": "Abdelbasset Abdessamad",
+    "arabe": "عبد الباسط عبد الصمد"
+  },
+  "slug": "abdelbasset-abdessamad",
+  "courtBio": "Réciteur coranique égyptien célèbre pour sa voix puissante et mélodieuse.",
+  "bioHtml": "<p>Abdelbasset Abdessamad (1927-1988) est un réciteur coranique égyptien renommé, connu pour sa voix profonde et émotive. Il a contribué à populariser la récitation du Coran dans le monde entier, notamment grâce à ses enregistrements largement diffusés.</p>",
+  "portrait": "../cdn/img/recitateurs/abdelbasset-abdessamad.jpg",
+  "dateNaissance": "1927-03-01",
+  "lieuNaissance": "Mansoura, Égypte",
+  "paysNaissance": "Égypte",
+  "reseaux": [
+    {
+      "nom": "YouTube",
+      "url": "https://www.youtube.com/results?search_query=Abdelbasset+Abdessamad"
+    }
+  ],
+  "enseignement": [
+    
+  ],
+  "styles": [
+    "Tarteel",
+    "Tajwid",
+    "Mujawwad"
+  ],
+  "galerie": [
+   
+  ]
+}
+]

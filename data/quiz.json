@@ -1,0 +1,1292 @@
+[
+  {
+    "id": "vie-prophete",
+    "titre": "Vie du Prophète ﷺ",
+    "description": "Testez vos connaissances sur les grands événements de la vie du Prophète Muhammad.",
+    "lien": "/pages/quiz/vie-prophete/",
+    "quizzes": [
+      {
+  "id": "naissance-enfance",
+  "titre": "Naissance et enfance",
+  "duree": "9 min",
+  "niveau": "Débutant",
+  "description": "Questions sur la naissance et la jeunesse du Prophète.",
+  "lien": "/pages/quiz/vie-prophete/naissance-enfance",
+"questions": [
+  {
+    "question": "Où est né le Prophète Muhammad ﷺ ?",
+    "reponses": ["La Mecque", "Médine", "Jérusalem"],
+    "bonneReponse": "La Mecque"
+  },
+  {
+    "question": "Quel était le nom de la mère du Prophète ﷺ ?",
+    "reponses": ["Aminah", "Fatima", "Khadija"],
+    "bonneReponse": "Aminah"
+  },
+  {
+    "question": "Quel était le nom du père du Prophète ﷺ ?",
+    "reponses": ["Abdullah", "Abu Talib", "Abu Bakr"],
+    "bonneReponse": "Abdullah"
+  },
+  {
+    "question": "À quel âge le Prophète ﷺ a-t-il perdu son père ?",
+    "reponses": ["Avant sa naissance", "À 6 ans", "À 13 ans"],
+    "bonneReponse": "Avant sa naissance"
+  },
+  {
+    "question": "Qui a élevé le Prophète ﷺ après la mort de ses parents ?",
+    "reponses": ["Son grand-père Abd al-Muttalib", "Son oncle Abu Talib", "Son cousin Ali"],
+    "bonneReponse": "Son grand-père Abd al-Muttalib"
+  },
+  {
+    "question": "Quel était le métier du Prophète Muhammad ﷺ avant la prophétie ?",
+    "reponses": ["Commerçant", "Guerrier", "Agriculteur"],
+    "bonneReponse": "Commerçant"
+  },
+  {
+    "question": "Comment s’appelait la première épouse du Prophète ﷺ ?",
+    "reponses": ["Khadija", "Aïcha", "Fatima"],
+    "bonneReponse": "Khadija"
+  },
+  {
+    "question": "Quel âge avait le Prophète ﷺ lorsqu’il s’est marié avec Khadija ?",
+    "reponses": ["25 ans", "40 ans", "35 ans"],
+    "bonneReponse": "25 ans"
+  },
+  {
+    "question": "Le Prophète ﷺ a grandi dans quel clan de la tribu Quraysh ?",
+    "reponses": ["Banu Hashim", "Banu Umayya", "Banu Abd Shams"],
+    "bonneReponse": "Banu Hashim"
+  }
+]
+},
+
+
+{
+  "id": "revelation-pas",
+  "titre": "Révélation et premiers pas",
+  "duree": "5 min",
+  "niveau": "Débutant",
+  "description": "Quiz sur les débuts de la révélation et la prédication à La Mecque.",
+  "lien": "/pages/quiz/vie-prophete/revelation-et-debut",
+  "questions": [
+    {
+      "question": "Quel âge avait le Prophète Muhammad ﷺ lors de la première révélation ?",
+      "reponses": ["40 ans", "30 ans", "50 ans"],
+      "bonneReponse": "40 ans"
+    },
+    {
+      "question": "Dans quelle grotte a eu lieu la première révélation ?",
+      "reponses": ["Grotte de Hira", "Grotte Thawr", "Grotte de Safa"],
+      "bonneReponse": "Grotte de Hira"
+    },
+    {
+      "question": "Quel ange est apparu au Prophète ﷺ lors de la première révélation ?",
+      "reponses": ["Jibril (Gabriel)", "Israfil", "Mikail"],
+      "bonneReponse": "Jibril (Gabriel)"
+    },
+    {
+      "question": "Quelle est la première parole révélée au Prophète ﷺ ?",
+      "reponses": ["Iqra (Lis)", "Bismillah", "Alhamdulillah"],
+      "bonneReponse": "Iqra (Lis)"
+    },
+    {
+      "question": "Qui fut la première personne à croire au message du Prophète ﷺ ?",
+      "reponses": ["Khadija", "Abu Bakr", "Ali"],
+      "bonneReponse": "Khadija"
+    },
+    {
+      "question": "Quelle était la réaction principale des Mecquois face à la prédication du Prophète ﷺ ?",
+      "reponses": ["Opposition et persécution", "Acceptation immédiate", "Indifférence"],
+      "bonneReponse": "Opposition et persécution"
+    },
+    {
+      "question": "Combien de personnes environ ont embrassé l'islam dans les premières années à La Mecque ?",
+      "reponses": ["Environ 40", "Environ 100", "Plus de 200"],
+      "bonneReponse": "Environ 40"
+    }
+  ]
+},
+
+
+
+
+{
+  "id": "batailles",
+  "titre": "Les grandes batailles du Prophète ﷺ",
+  "duree": "5 min",
+  "niveau": "Débutant",
+  "description": "",
+  "lien": "/pages/quiz/vie-prophete/batailles",
+  "questions": [
+  {
+    "question": "Quelle est la première grande bataille menée par les musulmans ?",
+    "reponses": ["Uhud", "Badr", "Khandaq"],
+    "bonneReponse": "Badr"
+  },
+  {
+    "question": "Quel compagnon a porté l'étendard à la bataille de Badr ?",
+    "reponses": ["Hamza", "Ali", "Mus'ab ibn Umair"],
+    "bonneReponse": "Ali"
+  },
+  {
+    "question": "Quel a été le résultat de la bataille d’Uhud ?",
+    "reponses": ["Victoire musulmane", "Défaite musulmane", "Match nul"],
+    "bonneReponse": "Défaite musulmane"
+  },
+  {
+    "question": "Contre qui les musulmans se sont-ils défendus lors de la bataille de la Tranchée (Khandaq) ?",
+    "reponses": ["Les Byzantins", "Les Quraychites et leurs alliés", "Les Juifs de Médine"],
+    "bonneReponse": "Les Quraychites et leurs alliés"
+  },
+  {
+    "question": "Qui a eu l'idée de creuser une tranchée pour protéger Médine ?",
+    "reponses": ["Umar ibn al-Khattab", "Salman al-Farisi", "Bilal ibn Rabah"],
+    "bonneReponse": "Salman al-Farisi"
+  }  
+  ]
+},
+
+
+
+
+
+{
+  "id": "hegire-medine",
+  "titre": "Hégire et Médine",
+  "duree": "5 min",
+  "niveau": "Débutant",
+  "description": "Connaissances sur l'émigration et la vie à Médine.",
+  "lien": "/pages/quiz/vie-prophete/hegire-medine",
+  "questions": [
+    {
+      "question": "En quelle année a eu lieu l'Hégire du Prophète Muhammad ﷺ ?",
+      "reponses": ["622", "610", "630"],
+      "bonneReponse": "622"
+    },
+    {
+      "question": "Pourquoi l'Hégire a-t-elle été nécessaire pour le Prophète et ses compagnons ?",
+      "reponses": [
+        "Persécution à La Mecque",
+        "Recherche de nouveaux alliés",
+        "Invitation à Médine"
+      ],
+      "bonneReponse": "Persécution à La Mecque"
+    },
+    {
+      "question": "Quelle ville a accueilli le Prophète après l'Hégire ?",
+      "reponses": ["Médine", "La Mecque", "Yathrib"],
+      "bonneReponse": "Médine"
+    },
+    {
+      "question": "Quel nom portait Médine avant l’arrivée du Prophète ?",
+      "reponses": ["Yathrib", "Taïf", "Kufa"],
+      "bonneReponse": "Yathrib"
+    },
+    {
+      "question": "Quelle importante constitution le Prophète a-t-il établie à Médine ?",
+      "reponses": [
+        "La Constitution de Médine",
+        "La Charte de La Mecque",
+        "Le Pacte d'Umayyah"
+      ],
+      "bonneReponse": "La Constitution de Médine"
+    },
+    {
+      "question": "Quel était l’objectif principal de la Constitution de Médine ?",
+      "reponses": [
+        "Assurer la paix et la coopération entre tribus",
+        "Déclarer la guerre aux ennemis",
+        "Interdire le commerce à Médine"
+      ],
+      "bonneReponse": "Assurer la paix et la coopération entre tribus"
+    },
+    {
+      "question": "Quel rôle les Ansars ont-ils joué à Médine ?",
+      "reponses": [
+        "Ils ont accueilli et aidé les Muhajirun",
+        "Ils ont quitté Médine",
+        "Ils ont combattu contre le Prophète"
+      ],
+      "bonneReponse": "Ils ont accueilli et aidé les Muhajirun"
+    }
+  ]
+}
+
+    ]
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  {
+    "id": "le-coran",
+    "titre": "Le Coran",
+    "description": "Vérifiez votre maîtrise des sourates, révélations et principes du Coran.",
+    "lien": "/pages/quiz/le-coran/",
+    "quizzes": [
+    
+    
+{
+  "id": "sourates",
+  "titre": "Les sourates",
+  "duree": "5 min",
+  "niveau": "Débutant",
+  "description": "Quiz sur les différentes sourates du Coran.",
+  "lien": "/pages/quiz/le-coran/sourates",
+  "questions": [
+    {
+      "question": "Combien de sourates compte le Coran ?",
+      "reponses": ["114", "99", "120"],
+      "bonneReponse": "114"
+    },
+    {
+      "question": "Quelle est la première sourate révélée ?",
+      "reponses": ["Al-'Alaq", "Al-Fatiha", "An-Nas"],
+      "bonneReponse": "Al-'Alaq"
+    },
+    {
+      "question": "Quelle sourate est la plus longue du Coran ?",
+      "reponses": ["Al-Baqara", "Al-Imran", "An-Nisa"],
+      "bonneReponse": "Al-Baqara"
+    },
+    {
+      "question": "Quelle sourate est connue comme 'la mère du Livre' ?",
+      "reponses": ["Al-Fatiha", "Al-Baqara", "Al-Ikhlas"],
+      "bonneReponse": "Al-Fatiha"
+    },
+    {
+      "question": "Combien de versets contient la sourate Al-Fatiha ?",
+      "reponses": ["7", "10", "5"],
+      "bonneReponse": "7"
+    },
+    {
+      "question": "Quelle sourate est souvent récitée pour la protection contre le mal ?",
+      "reponses": ["Al-Falaq", "Al-Kawthar", "Al-Masad"],
+      "bonneReponse": "Al-Falaq"
+    },
+    {
+      "question": "Quelle sourate est la plus courte du Coran ?",
+      "reponses": ["Al-Kawthar", "An-Nas", "Al-Ikhlas"],
+      "bonneReponse": "Al-Kawthar"
+    }
+  ]
+},
+
+
+
+{
+  "id": "faits-et-chiffres",
+  "titre": "Faits et chiffres du Coran",
+  "duree": "5 min",
+  "niveau": "Débutant",
+  "description": "Connaissez-vous les chiffres, statistiques et faits remarquables liés au Coran ? Testez-vous !",
+  "lien": "/pages/quiz/le-coran/faits-et-chiffres",
+  "questions": [
+  {
+    "question": "Combien de sourates comporte le Coran ?",
+    "options": ["114", "99", "66", "120"],
+    "answer": "114"
+  },
+  {
+    "question": "Combien de versets contient la plus longue sourate (Al-Baqara) ?",
+    "options": ["286", "200", "150", "300"],
+    "answer": "286"
+  },
+  {
+    "question": "En combien d’années la révélation du Coran a-t-elle eu lieu ?",
+    "options": ["23 ans", "10 ans", "40 ans", "15 ans"],
+    "answer": "23 ans"
+  },
+  {
+    "question": "Combien de Juz’ (parties) comporte le Coran ?",
+    "options": ["30", "20", "25", "40"],
+    "answer": "30"
+  },
+  {
+    "question": "Quel est le nombre approximatif de mots dans le Coran ?",
+    "options": ["77 430", "50 000", "100 000", "60 000"],
+    "answer": "77 430"
+  }
+  ]
+},
+
+
+
+{
+  "id": "histoire-du-coran",
+  "titre": "Histoire du Coran",
+  "duree": "5 min",
+  "niveau": "Débutant",
+  "description": "Découvrez l’histoire de la révélation, la compilation et la transmission du Coran à travers les siècles.",
+  "lien": "/pages/quiz/le-coran/histoire-du-coran",
+  "questions": [
+  {
+    "question": "Quelle est la langue originale dans laquelle le Coran a été révélé ?",
+    "options": ["Arabe", "Persan", "Hébreu", "Grec"],
+    "answer": "Arabe"
+  },
+  {
+    "question": "Qui a été le premier calife à ordonner la compilation écrite du Coran ?",
+    "options": ["Abou Bakr", "Omar", "Othman", "Ali"],
+    "answer": "Abou Bakr"
+  },
+  {
+    "question": "Quelle est la durée approximative de la révélation du Coran ?",
+    "options": ["10 ans", "23 ans", "40 ans", "50 ans"],
+    "answer": "23 ans"
+  },
+  {
+    "question": "Où le Coran a-t-il été révélé au Prophète Muhammad ﷺ ?",
+    "options": ["La Mecque et Médine", "Jérusalem", "Damas", "Bagdad"],
+    "answer": "La Mecque et Médine"
+  },
+  {
+    "question": "Quel calife est connu pour avoir standardisé la version du Coran ?",
+    "options": ["Othman", "Abou Bakr", "Ali", "Uthman"],
+    "answer": "Othman"
+  },
+  {
+    "question": "Le Coran est divisé en combien de sourates ?",
+    "options": ["114", "99", "120", "100"],
+    "answer": "114"
+  },
+  {
+    "question": "Qu'est-ce que la 'Mushaf' dans le contexte du Coran ?",
+    "options": ["Un manuscrit écrit", "Une prière", "Un lieu saint", "Un prophète"],
+    "answer": "Un manuscrit écrit"
+  }
+  ]
+},
+
+
+
+
+
+{
+  "id": "lecture-et-memorisation",
+  "titre": "Lecture et mémorisation du Coran",
+  "duree": "5 min",
+  "niveau": "Débutant",
+  "description": "Testez vos connaissances sur les règles de lecture et les techniques de mémorisation du Coran.",
+  "lien": "/pages/quiz/le-coran/lecture-et-memorisation",
+  "questions": [
+  {
+    "question": "Quelle est la langue originale du Coran ?",
+    "options": ["Arabe", "Persan", "Turc", "Urdu"],
+    "answer": "Arabe"
+  },
+  {
+    "question": "Comment s’appelle la science qui étudie la récitation correcte du Coran ?",
+    "options": ["Tafsir", "Hadith", "Tajwid", "Fiqh"],
+    "answer": "Tajwid"
+  },
+  {
+    "question": "Quel est le terme pour la mémorisation complète du Coran ?",
+    "options": ["Hafidh", "Mufti", "Qari", "Imam"],
+    "answer": "Hafidh"
+  },
+  {
+    "question": "Quelle sourate est la plus longue dans le Coran ?",
+    "options": ["Al-Baqara", "Al-Fatiha", "An-Nas", "Al-Ikhlas"],
+    "answer": "Al-Baqara"
+  },
+  {
+    "question": "Quel est l’un des moyens recommandés pour mémoriser le Coran ?",
+    "options": ["Lire uniquement une fois", "Répéter fréquemment", "Écouter une seule fois", "Apprendre tout d’un coup"],
+    "answer": "Répéter fréquemment"
+  }
+  ]
+},
+
+
+
+
+
+
+{
+  "id": "personnages-du-coran",
+  "titre": "Personnages mentionnés dans le Coran",
+  "duree": "5 min",
+  "niveau": "Débutant",
+  "description": "Testez vos connaissances sur les personnages prophétiques et historiques mentionnés dans le Coran.",
+  "lien": "/pages/quiz/le-coran/personnages-du-coran",
+  "questions": [
+  {
+    "question": "Qui est le prophète qui a construit l’arche pour sauver les croyants du déluge ?",
+    "options": ["Noé (Nuh)", "Abraham (Ibrahim)", "Moïse (Moussa)", "Jésus (Issa)"],
+    "answer": "Noé (Nuh)"
+  },
+  {
+    "question": "Quel prophète a reçu les dix commandements ?",
+    "options": ["Moïse (Moussa)", "David (Dawoud)", "Joseph (Youssef)", "Aaron (Haroun)"],
+    "answer": "Moïse (Moussa)"
+  },
+  {
+    "question": "Qui est la mère de Jésus (Issa) selon le Coran ?",
+    "options": ["Marie (Maryam)", "Sarah", "Hagar", "Asiya"],
+    "answer": "Marie (Maryam)"
+  },
+  {
+    "question": "Quel prophète a été vendu comme esclave par ses frères ?",
+    "options": ["Joseph (Youssef)", "Jonas (Younous)", "David (Dawoud)", "Salomon (Souleymane)"],
+    "answer": "Joseph (Youssef)"
+  },
+  {
+    "question": "Quel prophète a été avalé par un grand poisson ?",
+    "options": ["Jonas (Younous)", "Elias (Ilyas)", "Elisée (Al-Yasa)", "Zacharie (Zakariya)"],
+    "answer": "Jonas (Younous)"
+  },
+  {
+    "question": "Quel roi et prophète est connu pour sa sagesse et son jugement ?",
+    "options": ["Salomon (Souleymane)", "David (Dawoud)", "Saul", "Abraham (Ibrahim)"],
+    "answer": "Salomon (Souleymane)"
+  },
+  {
+    "question": "Qui est le père des Arabes selon le Coran ?",
+    "options": ["Abraham (Ibrahim)", "Ismaël (Isma'il)", "Isaac (Ishaq)", "Jacob (Ya'qub)"],
+    "answer": "Abraham (Ibrahim)"
+  }
+  ]
+},
+
+
+
+
+{
+  "id": "sciences-du-coran",
+  "titre": "Sciences du Coran",
+  "duree": "5 min",
+  "niveau": "Débutant",
+  "description": "Approfondissez vos connaissances sur les sciences du Coran, ses exégèses, et ses disciplines connexes.",
+  "lien": "/pages/quiz/le-coran/sciences-du-coran",
+  "questions": [
+  {
+    "question": "Quelle science étudie la collecte et la compilation du Coran ?",
+    "options": ["Ulum al-Quran", "Tafsir", "Hadith", "Fiqh"],
+    "answer": "Ulum al-Quran"
+  },
+  {
+    "question": "Comment s’appelle l’exégèse ou l’interprétation du Coran ?",
+    "options": ["Tafsir", "Tajwid", "Fiqh", "Hadith"],
+    "answer": "Tafsir"
+  },
+  {
+    "question": "Quelle science concerne la récitation correcte du Coran ?",
+    "options": ["Tajwid", "Tafsir", "Fiqh", "Hadith"],
+    "answer": "Tajwid"
+  },
+  {
+    "question": "Quel est le nom donné aux règles de prononciation du Coran ?",
+    "options": ["Tajwid", "Qira'at", "Sunnah", "Ijma"],
+    "answer": "Tajwid"
+  },
+  {
+    "question": "Quel terme désigne les différentes lectures du Coran ?",
+    "options": ["Qira'at", "Hadith", "Fiqh", "Ijtihad"],
+    "answer": "Qira'at"
+  },
+  {
+    "question": "Quelle science étudie l'authenticité des récits prophétiques liés au Coran ?",
+    "options": ["Hadith", "Tafsir", "Fiqh", "Aqidah"],
+    "answer": "Hadith"
+  },
+  {
+    "question": "Quel mot signifie ‘science’ ou ‘connaissance’ en arabe, souvent utilisé pour désigner les sciences islamiques ?",
+    "options": ["Ulum", "Sunnah", "Sharia", "Fatwa"],
+    "answer": "Ulum"
+  }
+  ]
+},
+
+
+
+
+
+{
+  "id": "sourates-familles",
+  "titre": "Les sourates et leurs classifications",
+  "duree": "5 min",
+  "niveau": "Débutant",
+  "description": "Testez votre savoir sur les différentes sourates, leurs familles et classifications dans le Coran.",
+  "lien": "/pages/quiz/le-coran/sourates-familles",
+  "questions": [
+  {
+    "question": "Combien y a-t-il de sourates dans le Coran ?",
+    "options": ["114", "99", "120", "150"],
+    "answer": "114"
+  },
+  {
+    "question": "Quelle sourate est considérée comme la mère du Livre ?",
+    "options": ["Al-Fatiha", "Al-Baqara", "Yasin", "An-Nas"],
+    "answer": "Al-Fatiha"
+  },
+  {
+    "question": "Les sourates révélées à La Mecque sont souvent appelées :",
+    "options": ["Sourates mecquoises", "Sourates médinoises", "Sourates longues", "Sourates courtes"],
+    "answer": "Sourates mecquoises"
+  },
+  {
+    "question": "Laquelle de ces sourates fait partie des sourates médinoises ?",
+    "options": ["Al-Baqara", "Al-Fil", "Al-Ikhlas", "Al-Ma'un"],
+    "answer": "Al-Baqara"
+  },
+  {
+    "question": "Quelle famille est fréquemment mentionnée dans le Coran ?",
+    "options": ["La famille d'Imran", "La famille de Pharaon", "La famille de David", "La famille de Jésus"],
+    "answer": "La famille d'Imran"
+  },
+  {
+    "question": "La sourate Al-Ikhlas parle principalement de :",
+    "options": ["L'unicité de Dieu", "L'histoire des prophètes", "Le Jour du Jugement", "Les miracles"],
+    "answer": "L'unicité de Dieu"
+  },
+  {
+    "question": "Quelle sourate est la plus longue du Coran ?",
+    "options": ["Al-Baqara", "An-Nisa", "Al-Ma'idah", "Al-An'am"],
+    "answer": "Al-Baqara"
+  }
+  ]
+}
+
+
+    ]
+  },
+  
+  
+  
+  
+  
+  
+  
+  {
+    "id": "compagnons",
+    "titre": "Les Compagnons",
+    "description": "Saurez-vous reconnaître les plus grands compagnons du Prophète ?",
+    "lien": "/pages/quiz/compagnons/",
+    "quizzes": [
+    
+{
+  "id": "grands-compagnons",
+  "titre": "Grands compagnons",
+  "duree": "5 min",
+  "niveau": "intermédiaire",
+  "description": "Testez vos connaissances sur les figures majeures parmi les compagnons.",
+  "lien": "/pages/quiz/compagnons/grands-compagnons",
+  "questions": [
+    {
+      "question": "Qui était le premier calife après le Prophète Muhammad ?",
+      "reponses": ["Abou Bakr", "Omar ibn al-Khattab", "Othman ibn Affan"],
+      "bonneReponse": "Abou Bakr"
+    },
+ {
+  "question": "Quel compagnon a ordonné la première compilation du Coran après la mort du Prophète ?",
+  "reponses": ["Abou Bakr", "Othman ibn Affan", "Ali ibn Abi Talib"],
+  "bonneReponse": "Abou Bakr"
+},
+{
+  "question": "Quelle épouse du Prophète est célèbre pour son intelligence et ses nombreux hadiths ?",
+  "reponses": ["Aïcha", "Khadija", "Fatima"],
+  "bonneReponse": "Aïcha"
+},
+    {
+      "question": "Quel compagnon est célèbre pour sa grande justice et son califat ?",
+      "reponses": ["Omar ibn al-Khattab", "Abou Bakr", "Ali ibn Abi Talib"],
+      "bonneReponse": "Omar ibn al-Khattab"
+    },
+    {
+      "question": "Quel compagnon était le cousin et gendre du Prophète ?",
+      "reponses": ["Ali ibn Abi Talib", "Bilal ibn Rabah", "Khalid ibn al-Walid"],
+      "bonneReponse": "Ali ibn Abi Talib"
+    },
+    {
+      "question": "Qui était le muezzin du Prophète Muhammad, célèbre pour son appel à la prière ?",
+      "reponses": ["Bilal ibn Rabah", "Abou Hurayra", "Sa’d ibn Abi Waqqas"],
+      "bonneReponse": "Bilal ibn Rabah"
+    },
+    {
+      "question": "Quel compagnon est reconnu pour avoir transmis le plus grand nombre de hadiths ?",
+      "reponses": ["Abou Hurayra", "Anas ibn Malik", "Abdullah ibn Abbas"],
+      "bonneReponse": "Abou Hurayra"
+    },
+{
+  "question": "Quel compagnon était surnommé 'l'épée d'Allah' pour sa bravoure au combat ?",
+  "reponses": ["Khalid ibn al-Walid", "Hamza ibn Abd al-Muttalib", "Sa’d ibn Abi Waqqas"],
+  "bonneReponse": "Khalid ibn al-Walid"
+},
+{
+  "question": "Quel compagnon était connu pour sa générosité et sa richesse mise au service de l'islam ?",
+  "reponses": ["Abdurrahman ibn Awf", "Othman ibn Affan", "Abou Bakr"],
+  "bonneReponse": "Abdurrahman ibn Awf"
+}
+  ]
+},
+
+
+
+
+{
+  "id": "abou-bakr",
+  "titre": "Abou Bakr As-Siddiq",
+  "duree": "5 min",
+  "niveau": "intermédiaire",
+  "description": "Un quiz pour mieux connaître le premier calife de l&#39;islam et ami fidèle du Prophète ﷺ.",
+  "lien": "/pages/quiz/compagnons/abou-bakr",
+  "questions": [
+  {
+    "question": "Quel est le nom complet d’Abou Bakr ?",
+    "options": [
+      "Abdallah ibn Abi Quhafa",
+      "Umar ibn al-Khattab",
+      "Ali ibn Abi Talib"
+    ],
+    "answer": "Abdallah ibn Abi Quhafa"
+  },
+  {
+    "question": "Quel surnom lui a été donné pour sa véracité ?",
+    "options": [
+      "Al-Faruq",
+      "As-Siddiq",
+      "Amin"
+    ],
+    "answer": "As-Siddiq"
+  },
+  {
+    "question": "Quel fut son rôle après le décès du Prophète ﷺ ?",
+    "options": [
+      "Il devint le premier calife",
+      "Il quitta Médine",
+      "Il devint chef militaire uniquement"
+    ],
+    "answer": "Il devint le premier calife"
+  },
+  {
+    "question": "Quelle grande mission mena-t-il durant son califat ?",
+    "options": [
+      "La compilation du Coran",
+      "La construction de la Kaaba",
+      "La conquête de Jérusalem"
+    ],
+    "answer": "La compilation du Coran"
+  },
+  {
+    "question": "Combien de temps dura son califat ?",
+    "options": [
+      "2 ans et quelques mois",
+      "10 ans",
+      "5 ans"
+    ],
+    "answer": "2 ans et quelques mois"
+  }
+  ]
+},
+
+
+
+
+{
+  "id": "ali",
+  "titre": "Ali ibn Abi Talib",
+  "duree": "5 min",
+  "niveau": "intermédiaire",
+  "description": "Testez vos connaissances sur Ali ibn Abi Talib, cousin et gendre du Prophète ﷺ, connu pour sa sagesse et sa bravoure.",
+  "lien": "/pages/quiz/compagnons/ali",
+  "questions": [
+  {
+    "question": "Quel lien familial unissait Ali رضي الله عنه au Prophète Muhammad ﷺ ?",
+    "options": [
+      "Son neveu",
+      "Son gendre et cousin",
+      "Son oncle"
+    ],
+    "answer": "Son gendre et cousin"
+  },
+  {
+    "question": "Qui était l’épouse d’Ali رضي الله عنه ?",
+    "options": [
+      "Aisha",
+      "Khadija",
+      "Fatima"
+    ],
+    "answer": "Fatima"
+  },
+  {
+    "question": "Quel fut le rôle d’Ali pendant la Hijra (émigration) ?",
+    "options": [
+      "Il accompagna le Prophète ﷺ à Médine",
+      "Il se cacha dans la grotte avec le Prophète ﷺ",
+      "Il dormit dans le lit du Prophète ﷺ pour le protéger"
+    ],
+    "answer": "Il dormit dans le lit du Prophète ﷺ pour le protéger"
+  },
+  {
+    "question": "Ali رضي الله عنه est connu pour...",
+    "options": [
+      "Sa richesse",
+      "Sa bravoure et sa sagesse",
+      "Sa carrière commerciale"
+    ],
+    "answer": "Sa bravoure et sa sagesse"
+  },
+  {
+    "question": "Quel fut le rang d’Ali رضي الله عنه parmi les califes ?",
+    "options": [
+      "Deuxième",
+      "Troisième",
+      "Quatrième"
+    ],
+    "answer": "Quatrième"
+  }
+  ]
+},
+
+
+
+
+
+{
+  "id": "badriyyin",
+  "titre": "Les compagnons de Badr",
+  "duree": "5 min",
+  "niveau": "intermédiaire",
+  "description": "Connaissez-vous les héros de la bataille de Badr ? Ce quiz est fait pour vous.",
+  "lien": "/pages/quiz/compagnons/badriyyin",
+  "questions": [
+  {
+    "question": "Combien de compagnons environ ont participé à la bataille de Badr ?",
+    "options": ["313", "1000", "150"],
+    "answer": "313"
+  },
+  {
+    "question": "Quel ange est mentionné dans le Coran comme ayant soutenu les musulmans à Badr ?",
+    "options": ["Jibril (Gabriel)", "Israfil", "Mikail"],
+    "answer": "Jibril (Gabriel)"
+  },
+  {
+    "question": "Quel grand compagnon fut le porte-drapeau des musulmans à Badr ?",
+    "options": ["Ali Ibn Abi Talib", "Miqdad Ibn Amr", "Mus'ab Ibn Umair"],
+    "answer": "Ali Ibn Abi Talib"
+  },
+  {
+    "question": "Quelle fut l’attitude du Prophète ﷺ envers les compagnons de Badr ?",
+    "options": [
+      "Il leur accorda un rang spécial et le pardon pour leurs fautes",
+      "Il leur demanda de ne pas témoigner",
+      "Il leur donna tous les butins"
+    ],
+    "answer": "Il leur accorda un rang spécial et le pardon pour leurs fautes"
+  },
+  {
+    "question": "Quel compagnon a tué Abu Jahl durant la bataille de Badr ?",
+    "options": [
+      "Abdullah Ibn Mas'ud",
+      "Mu'adh et Mu'awwidh",
+      "Hamza Ibn Abdul-Muttalib"
+    ],
+    "answer": "Mu'adh et Mu'awwidh"
+  }
+  ]
+},
+
+
+
+
+{
+  "id": "compagnons-africains",
+  "titre": "Les compagnons d''origine africaine",
+  "duree": "5 min",
+  "niveau": "intermédiaire",
+  "description": "Redécouvrez l’histoire de compagnons comme Bilal al-Habashi et d''autres figures africaines de l’islam primitif.",
+  "lien": "/pages/quiz/compagnons/compagnons-africains",
+  "questions": [
+  {
+    "question": "Quel compagnon originaire d'Éthiopie fut le premier muezzin de l'islam ?",
+    "options": ["Bilal Ibn Rabah", "Ammar Ibn Yasir", "Salman le Perse"],
+    "answer": "Bilal Ibn Rabah"
+  },
+  {
+    "question": "Bilal رضي الله عنه était un esclave affranchi par :",
+    "options": ["Abou Bakr As-Siddiq", "Umar Ibn al-Khattab", "Ali Ibn Abi Talib"],
+    "answer": "Abou Bakr As-Siddiq"
+  },
+  {
+    "question": "Le roi chrétien qui a accueilli les musulmans lors de l’émigration en Abyssinie se nomme :",
+    "options": ["Négus (An-Najâshi)", "Fir'awn", "Kisra"],
+    "answer": "Négus (An-Najâshi)"
+  },
+  {
+    "question": "Quel compagnon africain a participé à la bataille de Badr ?",
+    "options": ["Bilal Ibn Rabah", "Wahshi Ibn Harb", "Ubaydah Ibn al-Harith"],
+    "answer": "Bilal Ibn Rabah"
+  },
+  {
+    "question": "Quel était le métier de Bilal رضي الله عنه après l'Hégire ?",
+    "options": ["Trésorier", "Muezzin", "Commerçant"],
+    "answer": "Muezzin"
+  }
+  ]
+},
+
+
+
+
+
+{
+  "id": "compagnons-et-corps-militaires",
+  "titre": "Les compagnons dans les expéditions militaires",
+  "duree": "5 min",
+  "niveau": "intermédiaire",
+  "description": "",
+  "lien": "/pages/quiz/compagnons/compagnons-et-corps-militaires",
+  "questions": [
+  {
+    "question": "Qui était le célèbre compagnon connu pour son rôle de porte-étendard lors de la bataille de Badr ?",
+    "options": ["Ali Ibn Abi Talib", "Abu Ubayda Ibn al-Jarrah", "Khalid Ibn al-Walid"],
+    "answer": "Abu Ubayda Ibn al-Jarrah"
+  },
+  {
+    "question": "Quel compagnon était surnommé 'l'Épée de Dieu' pour ses exploits militaires ?",
+    "options": ["Sa’d Ibn Abi Waqqas", "Khalid Ibn al-Walid", "Talha Ibn Ubaydullah"],
+    "answer": "Khalid Ibn al-Walid"
+  },
+  {
+    "question": "Quel compagnon fut le chef des troupes lors de la bataille de Khaybar ?",
+    "options": ["Abu Bakr As-Siddiq", "Ali Ibn Abi Talib", "Umar Ibn al-Khattab"],
+    "answer": "Ali Ibn Abi Talib"
+  },
+  {
+    "question": "Quel compagnon fut chargé de la défense de Médine pendant l'absence du Prophète ﷺ lors de la bataille de Tabuk ?",
+    "options": ["Umar Ibn al-Khattab", "Abu Ubayda Ibn al-Jarrah", "Sa’d Ibn Abi Waqqas"],
+    "answer": "Abu Ubayda Ibn al-Jarrah"
+  },
+  {
+    "question": "Quel compagnon a participé à la conquête de la Syrie et de l’Irak ?",
+    "options": ["Sa’d Ibn Abi Waqqas", "Abu Bakr As-Siddiq", "Bilal Ibn Rabah"],
+    "answer": "Sa’d Ibn Abi Waqqas"
+  }
+  ]
+},
+
+
+
+
+{
+  "id": "compagnons-martyrs",
+  "titre": "Les compagnons martyrs",
+  "duree": "5 min",
+  "niveau": "intermédiaire",
+  "description": "Ce quiz rend hommage à ceux qui ont sacrifié leur vie pour la foi islamique.",
+  "lien": "/pages/quiz/compagnons/compagnons-martyrs",
+  "questions": [
+ {
+    "question": "Qui est le compagnon martyr célèbre lors de la bataille d'Uhud, connu pour sa bravoure et son dévouement ?",
+    "options": ["Hamza Ibn Abdul-Muttalib", "Bilal Ibn Rabah", "Abu Hurayra"],
+    "answer": "Hamza Ibn Abdul-Muttalib"
+  },
+  {
+    "question": "Quel compagnon martyr est considéré comme le premier martyr de l'Islam ?",
+    "options": ["Sumayyah bint Khayyat", "Uthman Ibn Affan", "Abu Bakr As-Siddiq"],
+    "answer": "Sumayyah bint Khayyat"
+  },
+  {
+    "question": "Qui est le compagnon martyr tué pendant la bataille de Yamama ?",
+    "options": ["Mus’ab Ibn Umair", "Khalid Ibn al-Walid", "Mus‘ab Ibn Umair"],
+    "answer": "Mus’ab Ibn Umair"
+  },
+  {
+    "question": "Quel compagnon martyr est connu pour son rôle lors de la bataille de Uhud où il a défendu le Prophète ﷺ ?",
+    "options": ["Abu Dujana", "Talha Ibn Ubaydullah", "Sa’d Ibn Abi Waqqas"],
+    "answer": "Abu Dujana"
+  },
+  {
+    "question": "Quel martyr est célèbre pour avoir été tué en défendant la foi lors des premières persécutions à La Mecque ?",
+    "options": ["Sumayyah bint Khayyat", "Hamza Ibn Abdul-Muttalib", "Abdullah Ibn Jahsh"],
+    "answer": "Sumayyah bint Khayyat"
+  }
+  ]
+},
+
+
+
+
+
+{
+  "id": "convertis-mecquois",
+  "titre": "Les premiers convertis à La Mecque",
+  "duree": "5 min",
+  "niveau": "intermédiaire",
+  "description": "Testez vos connaissances sur les pionniers de l’islam à La Mecque : Bilal, Khadija, Ammar, etc.",
+  "lien": "/pages/quiz/compagnons/convertis-mecquois",
+  "questions": [
+  {
+    "question": "Qui est considéré comme la première femme à s’être convertie à l’Islam à La Mecque ?",
+    "options": ["Khadija bint Khuwaylid", "Fatima", "Aminah"],
+    "answer": "Khadija bint Khuwaylid"
+  },
+  {
+    "question": "Quel compagnon est reconnu comme le premier homme adulte à accepter l’Islam ?",
+    "options": ["Abu Bakr As-Siddiq", "Ali Ibn Abi Talib", "Bilal Ibn Rabah"],
+    "answer": "Abu Bakr As-Siddiq"
+  },
+  {
+    "question": "Quel jeune garçon, cousin du Prophète ﷺ, fait partie des premiers convertis ?",
+    "options": ["Ali Ibn Abi Talib", "Umar Ibn al-Khattab", "Abdullah Ibn Mas'ud"],
+    "answer": "Ali Ibn Abi Talib"
+  },
+  {
+    "question": "Parmi ces premiers convertis, qui était l’esclave affranchi célèbre pour son rôle dans l’Islam ?",
+    "options": ["Bilal Ibn Rabah", "Abu Hurayra", "Sa’d Ibn Abi Waqqas"],
+    "answer": "Bilal Ibn Rabah"
+  },
+  {
+    "question": "Qui fut l’un des premiers convertis connu pour avoir encouragé le Prophète ﷺ et soutenu l’Islam dès ses débuts ?",
+    "options": ["Abu Bakr As-Siddiq", "Hamza Ibn Abdul-Muttalib", "Khalid Ibn al-Walid"],
+    "answer": "Abu Bakr As-Siddiq"
+  }
+  ]
+},
+
+
+
+
+
+{
+  "id": "dix-promis-paradis",
+  "titre": "Les dix compagnons promis au Paradis",
+  "duree": "5 min",
+  "niveau": "intermédiaire",
+  "description": "",
+  "lien": "/pages/quiz/compagnons/dix-promis-paradis",
+  "questions": [
+  {
+    "question": "Qui est le premier calife parmi les dix promis au paradis ?",
+    "options": ["Abu Bakr As-Siddiq", "Umar Ibn al-Khattab", "Uthman Ibn Affan"],
+    "answer": "Abu Bakr As-Siddiq"
+  },
+  {
+    "question": "Parmi les dix promis, qui est connu comme 'le lion d'Allah' ?",
+    "options": ["Ali Ibn Abi Talib", "Abu Bakr", "Khalid Ibn al-Walid"],
+    "answer": "Ali Ibn Abi Talib"
+  },
+  {
+    "question": "Quel compagnon parmi les dix promis a été le troisième calife ?",
+    "options": ["Uthman Ibn Affan", "Abu Bakr", "Abd al-Rahman Ibn Awf"],
+    "answer": "Uthman Ibn Affan"
+  },
+  {
+    "question": "Parmi ces compagnons, qui est célèbre pour sa générosité extrême ?",
+    "options": ["Abd al-Rahman Ibn Awf", "Sa’d Ibn Abi Waqqas", "Talha Ibn Ubaydullah"],
+    "answer": "Abd al-Rahman Ibn Awf"
+  },
+  {
+    "question": "Quel compagnon des dix promis est réputé pour sa bravoure et était archer ?",
+    "options": ["Sa’d Ibn Abi Waqqas", "Abu Ubayda Ibn al-Jarrah", "Zubayr Ibn al-Awwam"],
+    "answer": "Sa’d Ibn Abi Waqqas"
+  },
+  {
+    "question": "Qui est appelé 'l’Aigle de Quraysh' parmi les dix promis ?",
+    "options": ["Zubayr Ibn al-Awwam", "Talha Ibn Ubaydullah", "Abu Ubayda Ibn al-Jarrah"],
+    "answer": "Zubayr Ibn al-Awwam"
+  },
+  {
+    "question": "Lequel des dix promis était célèbre pour son honnêteté et son rôle de général ?",
+    "options": ["Abu Ubayda Ibn al-Jarrah", "Talha Ibn Ubaydullah", "Abdullah Ibn Mas’ud"],
+    "answer": "Abu Ubayda Ibn al-Jarrah"
+  },
+  {
+    "question": "Quel compagnon des dix promis est aussi connu pour son courage à la bataille d’Uhud ?",
+    "options": ["Talha Ibn Ubaydullah", "Abdullah Ibn Mas’ud", "Abd al-Rahman Ibn Awf"],
+    "answer": "Talha Ibn Ubaydullah"
+  },
+  {
+    "question": "Parmi les dix promis, qui est reconnu pour sa grande connaissance du Coran ?",
+    "options": ["Abdullah Ibn Mas’ud", "Zubayr Ibn al-Awwam", "Sa’d Ibn Abi Waqqas"],
+    "answer": "Abdullah Ibn Mas’ud"
+  },
+  {
+    "question": "Qui était le dixième compagnon promis au paradis ?",
+    "options": ["Sa’id Ibn Zayd", "Abu Hurayra", "Bilal Ibn Rabah"],
+    "answer": "Sa’id Ibn Zayd"
+  }
+  ]
+},
+
+
+
+
+
+{
+  "id": "jeunes-compagnons",
+  "titre": "Les jeunes compagnons du Prophète ﷺ",
+  "duree": "5 min",
+  "niveau": "intermédiaire",
+  "description": "Un quiz pour découvrir la jeunesse exemplaire des compagnons comme Ibn Abbas, Anas, Usama ibn Zayd, etc.",
+  "lien": "/pages/quiz/compagnons/jeunes-compagnons",
+  "questions": [
+  {
+    "question": "Quel jeune compagnon était célèbre pour sa fidélité et son courage lors de la bataille d’Uhud ?",
+    "options": ["Ali Ibn Abi Talib", "Abu Bakr As-Siddiq", "Sa’d Ibn Abi Waqqas"],
+    "answer": "Ali Ibn Abi Talib"
+  },
+  {
+    "question": "Quel jeune compagnon est connu pour avoir été le scribe du Prophète ﷺ ?",
+    "options": ["Zayd Ibn Harithah", "Abdullah Ibn Mas’ud", "Bilal Ibn Rabah"],
+    "answer": "Zayd Ibn Harithah"
+  },
+  {
+    "question": "Parmi les jeunes compagnons, qui était appelé 'le Lion de Dieu' ?",
+    "options": ["Ali Ibn Abi Talib", "Khalid Ibn al-Walid", "Talha Ibn Ubaydullah"],
+    "answer": "Ali Ibn Abi Talib"
+  },
+  {
+    "question": "Quel jeune compagnon a été le premier muezzin de l’Islam ?",
+    "options": ["Bilal Ibn Rabah", "Abu Hurayra", "Sa’d Ibn Abi Waqqas"],
+    "answer": "Bilal Ibn Rabah"
+  },
+  {
+    "question": "Qui est le jeune compagnon célèbre pour sa connaissance approfondie du Coran ?",
+    "options": ["Abdullah Ibn Mas’ud", "Sa’id Ibn Zayd", "Zubayr Ibn al-Awwam"],
+    "answer": "Abdullah Ibn Mas’ud"
+  },
+  {
+    "question": "Quel jeune compagnon a été adopté par le Prophète ﷺ ?",
+    "options": ["Zayd Ibn Harithah", "Talha Ibn Ubaydullah", "Abu Ubayda Ibn al-Jarrah"],
+    "answer": "Zayd Ibn Harithah"
+  },
+  {
+    "question": "Quel jeune compagnon était aussi un cousin du Prophète ﷺ ?",
+    "options": ["Ali Ibn Abi Talib", "Abu Bakr As-Siddiq", "Umar Ibn al-Khattab"],
+    "answer": "Ali Ibn Abi Talib"
+  },
+  {
+    "question": "Lequel de ces jeunes compagnons a participé à la bataille de Badr ?",
+    "options": ["Zubayr Ibn al-Awwam", "Abdullah Ibn Mas’ud", "Bilal Ibn Rabah"],
+    "answer": "Zubayr Ibn al-Awwam"
+  },
+  {
+    "question": "Quel jeune compagnon est connu pour sa bravoure et son dévouement lors de la conquête de La Mecque ?",
+    "options": ["Talha Ibn Ubaydullah", "Sa’d Ibn Abi Waqqas", "Khalid Ibn al-Walid"],
+    "answer": "Talha Ibn Ubaydullah"
+  },
+  {
+    "question": "Quel jeune compagnon est célèbre pour avoir transmis de nombreux hadiths ?",
+    "options": ["Abu Hurayra", "Bilal Ibn Rabah", "Abdullah Ibn Mas’ud"],
+    "answer": "Abu Hurayra"
+  }
+  ]
+},
+
+
+
+
+
+{
+  "id": "omar",
+  "titre": "Omar ibn al-Khattab",
+  "duree": "5 min",
+  "niveau": "intermédiaire",
+  "description": "Évaluez vos connaissances sur le deuxième calife de l’islam, symbole de justice et de fermeté.",
+  "lien": "/pages/quiz/compagnons/omar",
+  "questions": [
+  {
+    "question": "Quel était le surnom d’Omar Ibn al-Khattab ?",
+    "options": ["Al-Farouq", "As-Siddiq", "At-Tayyar"],
+    "answer": "Al-Farouq"
+  },
+  {
+    "question": "Avant de devenir musulman, Omar était connu pour être :",
+    "options": ["Un adversaire farouche de l’Islam", "Un compagnon proche du Prophète", "Un commerçant à La Mecque"],
+    "answer": "Un adversaire farouche de l’Islam"
+  },
+  {
+    "question": "Quel rôle Omar a-t-il occupé dans la communauté musulmane après la mort du Prophète ﷺ ?",
+    "options": ["Premier Calife", "Deuxième Calife", "Troisième Calife"],
+    "answer": "Deuxième Calife"
+  },
+  {
+    "question": "Omar est célèbre pour avoir instauré :",
+    "options": ["La zakat obligatoire", "Le calendrier islamique (Hijri)", "La prière du vendredi"],
+    "answer": "Le calendrier islamique (Hijri)"
+  },
+  {
+    "question": "Quel était le nom du fils d’Omar qui a également été un compagnon important ?",
+    "options": ["Abdullah", "Uthman", "Ali"],
+    "answer": "Abdullah"
+  },
+  {
+    "question": "Omar était réputé pour sa justice. Quel surnom lui a-t-on donné en raison de cela ?",
+    "options": ["Al-Adl", "Al-Farouq", "Al-Hakim"],
+    "answer": "Al-Farouq"
+  },
+  {
+    "question": "Omar a été assassiné par :",
+    "options": ["Un esclave perse", "Un compagnon", "Un commerçant de La Mecque"],
+    "answer": "Un esclave perse"
+  },
+  {
+    "question": "Quelle grande expansion territoriale a eu lieu sous le califat d’Omar ?",
+    "options": ["Conquête de l’Espagne", "Conquête de l’Empire byzantin et perse", "Conquête de l’Égypte uniquement"],
+    "answer": "Conquête de l’Empire byzantin et perse"
+  },
+  {
+    "question": "Omar a instauré un système important pour les pauvres et nécessiteux appelé :",
+    "options": ["Zakat", "Bayt al-Mal", "Sadaqah"],
+    "answer": "Bayt al-Mal"
+  },
+  {
+    "question": "Quel est le lieu de sépulture d’Omar Ibn al-Khattab ?",
+    "options": ["À La Mecque", "À Médine", "À Jérusalem"],
+    "answer": "À Médine"
+  }
+  ]
+},
+
+
+
+{
+  "id": "",
+  "titre": "Othman ibn Affan",
+  "duree": "5 min",
+  "niveau": "intermédiaire",
+  "description": "Découvrez la vie et les mérites d’Othman ibn Affan, troisième calife et compilateur du Coran.",
+  "lien": "/pages/quiz/compagnons/othman",
+  "questions": [
+  {
+    "question": "Quel est le surnom d’Othman ibn Affan ?",
+    "options": ["Dhul-Nurayn", "Al-Farouq", "As-Siddiq"],
+    "answer": "Dhul-Nurayn"
+  },
+  {
+    "question": "Combien de fois Othman a-t-il épousé une fille du Prophète ﷺ ?",
+    "options": ["Une fois", "Deux fois", "Trois fois"],
+    "answer": "Deux fois"
+  },
+  {
+    "question": "Quel rôle Othman a-t-il eu dans la diffusion du Coran ?",
+    "options": [
+      "Il a compilé et standardisé le texte coranique",
+      "Il a traduit le Coran en persan",
+      "Il a interdit la lecture du Coran hors de Médine"
+    ],
+    "answer": "Il a compilé et standardisé le texte coranique"
+  },
+  {
+    "question": "Othman a été :",
+    "options": ["Le troisième calife", "Le deuxième calife", "Le quatrième calife"],
+    "answer": "Le troisième calife"
+  },
+  {
+    "question": "Quelle qualité personnelle d’Othman est souvent mise en avant ?",
+    "options": ["Sa générosité et sa piété", "Sa force militaire", "Son éloquence"],
+    "answer": "Sa générosité et sa piété"
+  },
+  {
+    "question": "Où Othman a-t-il été assassiné ?",
+    "options": ["À Médine", "À La Mecque", "À Jérusalem"],
+    "answer": "À Médine"
+  },
+  {
+    "question": "Othman a agrandi quelle structure importante à Médine ?",
+    "options": ["La Mosquée du Prophète", "Le Palais du Calife", "Le Bazar"],
+    "answer": "La Mosquée du Prophète"
+  },
+  {
+    "question": "Quelle est la cause principale de l’opposition contre Othman durant son califat ?",
+    "><": [
+      "Des accusations de favoritisme envers sa famille",
+      "Une mauvaise gestion des finances",
+      "Le refus de prêcher en public"
+    ],
+    "answer": "Des accusations de favoritisme envers sa famille"
+  },
+  {
+    "question": "Othman était célèbre pour :",
+    "options": ["Son calme et patience", "Sa guerre contre les Byzantins", "Son éloquence en public"],
+    "answer": "Son calme et patience"
+  },
+  {
+    "question": "Quel était le nom du père d’Othman ibn Affan ?",
+    "options": ["Affan ibn Abi al-As", "Abu Bakr", "Uthman ibn Maz'un"],
+    "answer": "Affan ibn Abi al-As"
+  }
+  ]
+},
+
+
+
+
+{
+  "id": "sahaba-hadith",
+  "titre": "Les rapporteurs de hadith parmi les compagnons",
+  "duree": "5 min",
+  "niveau": "intermédiaire",
+  "description": "Connaissez-vous les plus grands transmetteurs de hadith comme Abou Hurayra, Aisha ou Ibn Umar ?",
+  "lien": "/pages/quiz/compagnons/sahaba-hadith",
+  "questions": [
+  {
+    "question": "Qui est considéré comme le principal rapporteur de hadith parmi les compagnons ?",
+    "options": ["Abou Hourayra", "Abou Bakr", "Omar ibn al-Khattab"],
+    "answer": "Abou Hourayra"
+  },
+  {
+    "question": "Quel compagnon est célèbre pour avoir mémorisé et transmis de nombreux hadiths malgré son faible niveau d'éducation formelle ?",
+    "options": ["Anas ibn Malik", "Abou Darda", "Abou Hourayra"],
+    "answer": "Abou Hourayra"
+  },
+  {
+    "question": "Quel compagnon était le serviteur et scribe du Prophète ﷺ, rapportant ainsi beaucoup de ses paroles ?",
+    "options": ["Anas ibn Malik", "Zayd ibn Thabit", "Sa'd ibn Abi Waqqas"],
+    "answer": "Anas ibn Malik"
+  },
+  {
+    "question": "Zayd ibn Thabit est connu pour :",
+    "options": [
+      "Être un scribe du Prophète ﷺ et compiler le Coran",
+      "Être un guerrier célèbre",
+      "Avoir été le calife après Omar"
+    ],
+    "answer": "Être un scribe du Prophète ﷺ et compiler le Coran"
+  },
+  {
+    "question": "Abdullah ibn Abbas est célèbre pour :",
+    "options": [
+      "Son rôle d'exégète du Coran et transmetteur de hadiths",
+      "Son rôle militaire",
+      "Son califat"
+    ],
+    "answer": "Son rôle d'exégète du Coran et transmetteur de hadiths"
+  },
+  {
+    "question": "Quel compagnon est réputé pour avoir transmis des hadiths avec une grande rigueur et précision ?",
+    "options": ["Abou Hourayra", "Abu Hurairah", "Uthman ibn Affan"],
+    "answer": "Abou Hourayra"
+  },
+  {
+    "question": "Qui parmi ces compagnons n’est pas un transmetteur reconnu de hadith ?",
+    "options": ["Abou Hourayra", "Khalid ibn al-Walid", "Anas ibn Malik"],
+    "answer": "Khalid ibn al-Walid"
+  }
+  ]
+}
+
+
+
+
+
+
+
+
+    ]
+  }
+]

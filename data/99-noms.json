@@ -1,0 +1,596 @@
+[
+  {
+    "numero": 1,
+    "nom_ar": "الرحمن",
+    "transliteration": "Ar-Rahmân",
+    "traduction": "Le Tout-Miséricordieux"
+  },
+  {
+    "numero": 2,
+    "nom_ar": "الرحيم",
+    "transliteration": "Ar-Rahîm",
+    "traduction": "Le Très-Miséricordieux"
+  },
+  {
+    "numero": 3,
+    "nom_ar": "الملك",
+    "transliteration": "Al-Malik",
+    "traduction": "Le Souverain"
+  },
+  {
+    "numero": 4,
+    "nom_ar": "القدوس",
+    "transliteration": "Al-Quddûs",
+    "traduction": "Le Pur, le Saint"
+  },
+  {
+    "numero": 5,
+    "nom_ar": "السلام",
+    "transliteration": "As-Salâm",
+    "traduction": "La Paix, la Source de paix"
+  },
+  {
+    "numero": 6,
+    "nom_ar": "ٱلْمُؤْمِنُ",
+    "transliteration": "Al-Mu’min",
+    "traduction": "Le Rassurant, le Donneur de sécurité"
+  },
+  {
+    "numero": 7,
+    "nom_ar": "ٱلْمُهَيْمِنُ",
+    "transliteration": "Al-Muhaymin",
+    "traduction": "Le Préservateur, le Témoin"
+  },
+  {
+    "numero": 8,
+    "nom_ar": "ٱلْعَزِيزُ",
+    "transliteration": "Al-‘Azîz",
+    "traduction": "Le Tout-Puissant, le Digne de grandeur"
+  },
+  {
+    "numero": 9,
+    "nom_ar": "ٱلْجَبَّارُ",
+    "transliteration": "Al-Jabbâr",
+    "traduction": "Le Contraignant, Celui qui domine et répare"
+  },
+  {
+    "numero": 10,
+    "nom_ar": "ٱلْمُتَكَبِّرُ",
+    "transliteration": "Al-Mutakabbir",
+    "traduction": "Le Superbe, le Majestueux"
+  },
+  {
+  "numero": 11,
+  "nom_ar": "ٱلْخَالِقُ",
+  "transliteration": "Al-Khāliq",
+  "traduction": "Le Créateur"
+},
+{
+  "numero": 12,
+  "nom_ar": "ٱلْبَارِئُ",
+  "transliteration": "Al-Bāri’",
+  "traduction": "Le Producteur, Celui qui façonne sans modèle"
+},
+{
+  "numero": 13,
+  "nom_ar": "ٱلْمُصَوِّرُ",
+  "transliteration": "Al-Muṣawwir",
+  "traduction": "Le Formateur, Celui qui donne une forme unique"
+},
+{
+  "numero": 14,
+  "nom_ar": "ٱلْغَفَّارُ",
+  "transliteration": "Al-Ghaffār",
+  "traduction": "Le Grand Pardonneur"
+},
+{
+  "numero": 15,
+  "nom_ar": "ٱلْقَهَّارُ",
+  "transliteration": "Al-Qahhār",
+  "traduction": "Le Dominateur Suprême"
+},
+{
+  "numero": 16,
+  "nom_ar": "ٱلْوَهَّابُ",
+  "transliteration": "Al-Wahhāb",
+  "traduction": "Le Donateur Généreux"
+},
+{
+  "numero": 17,
+  "nom_ar": "ٱلرَّزَّاقُ",
+  "transliteration": "Ar-Razzāq",
+  "traduction": "Le Pourvoyeur"
+},
+{
+  "numero": 18,
+  "nom_ar": "ٱلْفَتَّاحُ",
+  "transliteration": "Al-Fattāḥ",
+  "traduction": "Le Grand Ouvreur, Celui qui donne la victoire"
+},
+{
+  "numero": 19,
+  "nom_ar": "ٱلْعَلِيْمُ",
+  "transliteration": "Al-‘Alīm",
+  "traduction": "L’Omniscient, Celui qui sait tout"
+},
+{
+  "numero": 20,
+  "nom_ar": "ٱلْقَابِضُ",
+  "transliteration": "Al-Qābiḍ",
+  "traduction": "Celui qui Retient"
+},
+{
+  "numero": 21,
+  "nom_ar": "ٱلْبَاسِطُ",
+  "transliteration": "Al-Bāsiṭ",
+  "traduction": "Celui qui Étend"
+},
+{
+  "numero": 22,
+  "nom_ar": "ٱلْخَافِضُ",
+  "transliteration": "Al-Khāfiḍ",
+  "traduction": "Celui qui Abaisse"
+},
+{
+  "numero": 23,
+  "nom_ar": "ٱلْرَّافِعُ",
+  "transliteration": "Ar-Rāfi‘",
+  "traduction": "Celui qui Élève"
+},
+{
+  "numero": 24,
+  "nom_ar": "ٱلْمُعِيزُ",
+  "transliteration": "Al-Mu‘īẓ",
+  "traduction": "Celui qui Honore"
+},
+{
+  "numero": 25,
+  "nom_ar": "ٱلْمُذِلُّ",
+  "transliteration": "Al-Mudhill",
+  "traduction": "Celui qui Humilie"
+},
+{
+  "numero": 26,
+  "nom_ar": "ٱلسَّمِيعُ",
+  "transliteration": "As-Samī‘",
+  "traduction": "L’Audient, Celui qui entend tout"
+},
+{
+  "numero": 27,
+  "nom_ar": "ٱلْبَصِيرُ",
+  "transliteration": "Al-Baṣīr",
+  "traduction": "Le Clairvoyant, Celui qui voit tout"
+},
+{
+  "numero": 28,
+  "nom_ar": "ٱلْحَكَمُ",
+  "transliteration": "Al-Ḥakam",
+  "traduction": "Le Juge, Celui qui décide avec justice"
+},
+{
+  "numero": 29,
+  "nom_ar": "ٱلْعَدْلُ",
+  "transliteration": "Al-‘Adl",
+  "traduction": "L’Équitable, Celui qui est juste"
+},
+{
+  "numero": 30,
+  "nom_ar": "ٱلْلَّطِيفُ",
+  "transliteration": "Al-Laṭīf",
+  "traduction": "Le Subtil, Le Bienveillant"
+},
+{
+  "numero": 31,
+  "nom_ar": "ٱلْخَبِيرُ",
+  "transliteration": "Al-Khabīr",
+  "traduction": "L’Informé, Celui qui sait tout en détail"
+},
+{
+  "numero": 32,
+  "nom_ar": "ٱلْحَلِيمُ",
+  "transliteration": "Al-Ḥalīm",
+  "traduction": "Le Doux, Le Clément"
+},
+{
+  "numero": 33,
+  "nom_ar": "ٱلْعَظِيمُ",
+  "transliteration": "Al-‘Aẓīm",
+  "traduction": "L’Immense, Le Magnifique"
+},
+{
+  "numero": 34,
+  "nom_ar": "ٱلْغَفُورُ",
+  "transliteration": "Al-Ghafūr",
+  "traduction": "Le Tout-Pardonnant"
+},
+{
+  "numero": 35,
+  "nom_ar": "ٱلشَّكُورُ",
+  "transliteration": "Ash-Shakūr",
+  "traduction": "Le Reconnaissant, Celui qui récompense"
+},
+{
+  "numero": 36,
+  "nom_ar": "ٱلْعَلِيُّ",
+  "transliteration": "Al-‘Alīyy",
+  "traduction": "Le Très-Haut"
+},
+{
+  "numero": 37,
+  "nom_ar": "ٱلْكَبِيرُ",
+  "transliteration": "Al-Kabīr",
+  "traduction": "Le Grand"
+},
+{
+  "numero": 38,
+  "nom_ar": "ٱلْحَفِيظُ",
+  "transliteration": "Al-Ḥafīẓ",
+  "traduction": "Le Gardien"
+},
+{
+  "numero": 39,
+  "nom_ar": "ٱلْمُقِيتُ",
+  "transliteration": "Al-Muqīt",
+  "traduction": "Le Nourricier"
+},
+{
+  "numero": 40,
+  "nom_ar": "ٱلْحَسِيبُ",
+  "transliteration": "Al-Ḥasīb",
+  "traduction": "Le Calculateur, Celui qui tient compte de tout"
+},
+{
+  "numero": 41,
+  "nom_ar": "ٱلْجَلِيلُ",
+  "transliteration": "Al-Jalīl",
+  "traduction": "Le Majestueux"
+},
+{
+  "numero": 42,
+  "nom_ar": "ٱلْكَرِيمُ",
+  "transliteration": "Al-Karīm",
+  "traduction": "Le Généreux, le Noble"
+},
+{
+  "numero": 43,
+  "nom_ar": "ٱلرَّقِيبُ",
+  "transliteration": "Ar-Raqīb",
+  "traduction": "Le Vigilant"
+},
+{
+  "numero": 44,
+  "nom_ar": "ٱلْمُجِيبُ",
+  "transliteration": "Al-Mujīb",
+  "traduction": "Celui qui exauce"
+},
+{
+  "numero": 45,
+  "nom_ar": "ٱلْوَاسِعُ",
+  "transliteration": "Al-Wāsi‘",
+  "traduction": "L’Ample, Celui qui englobe tout"
+},
+{
+  "numero": 46,
+  "nom_ar": "ٱلْحَكِيمُ",
+  "transliteration": "Al-Ḥakīm",
+  "traduction": "Le Sage"
+},
+{
+  "numero": 47,
+  "nom_ar": "ٱلْوَدُودُ",
+  "transliteration": "Al-Wadūd",
+  "traduction": "Le Tout-Aimant"
+},
+{
+  "numero": 48,
+  "nom_ar": "ٱلْمَجِيدُ",
+  "transliteration": "Al-Majīd",
+  "traduction": "Le Glorieux, Le Très Glorieux"
+},
+{
+  "numero": 49,
+  "nom_ar": "ٱلْبَاعِثُ",
+  "transliteration": "Al-Bā‘ith",
+  "traduction": "Celui qui ressuscite"
+},
+{
+  "numero": 50,
+  "nom_ar": "ٱلشَّهِيدُ",
+  "transliteration": "Ash-Shahīd",
+  "traduction": "Le Témoin"
+},
+{
+  "numero": 51,
+  "nom_ar": "ٱلْحَقُ",
+  "transliteration": "Al-Ḥaqq",
+  "traduction": "La Vérité"
+},
+{
+  "numero": 52,
+  "nom_ar": "ٱلْوَكِيلُ",
+  "transliteration": "Al-Wakīl",
+  "traduction": "Le Garant, Le Représentant"
+},
+{
+  "numero": 53,
+  "nom_ar": "ٱلْقَوِيُ",
+  "transliteration": "Al-Qawiyy",
+  "traduction": "Le Très Fort"
+},
+{
+  "numero": 54,
+  "nom_ar": "ٱلْمَتِينُ",
+  "transliteration": "Al-Matīn",
+  "traduction": "Le Tout-Puissant, L’Immuable"
+},
+{
+  "numero": 55,
+  "nom_ar": "ٱلْوَلِيُ",
+  "transliteration": "Al-Waliyy",
+  "traduction": "Le Protecteur Proche"
+},
+{
+  "numero": 56,
+  "nom_ar": "ٱلْحَمِيدُ",
+  "transliteration": "Al-Ḥamīd",
+  "traduction": "Le Digne de louange"
+},
+{
+  "numero": 57,
+  "nom_ar": "ٱلْمُحْصِي",
+  "transliteration": "Al-Muḥṣī",
+  "traduction": "Celui qui dénombre tout"
+},
+{
+  "numero": 58,
+  "nom_ar": "ٱلْمُبْدِئُ",
+  "transliteration": "Al-Mubdi’",
+  "traduction": "Le Créateur (qui commence la création)"
+},
+{
+  "numero": 59,
+  "nom_ar": "ٱلْمُعِيدُ",
+  "transliteration": "Al-Mu‘īd",
+  "traduction": "Celui qui redonne vie"
+},
+{
+  "numero": 60,
+  "nom_ar": "ٱلْمُحْيِي",
+  "transliteration": "Al-Muḥyī",
+  "traduction": "Celui qui donne la vie"
+},
+{
+  "numero": 61,
+  "nom_ar": "ٱلْمُمِيتُ",
+  "transliteration": "Al-Mumīt",
+  "traduction": "Celui qui donne la mort"
+},
+{
+  "numero": 62,
+  "nom_ar": "ٱلْحَيُّ",
+  "transliteration": "Al-Ḥayy",
+  "traduction": "Le Vivant"
+},
+{
+  "numero": 63,
+  "nom_ar": "ٱلْقَيُّومُ",
+  "transliteration": "Al-Qayyūm",
+  "traduction": "L’Immuable, L’Absolu"
+},
+{
+  "numero": 64,
+  "nom_ar": "ٱلْوَاجِدُ",
+  "transliteration": "Al-Wājid",
+  "traduction": "Celui qui trouve tout, Le Suffisant"
+},
+{
+  "numero": 65,
+  "nom_ar": "ٱلْمَاجِدُ",
+  "transliteration": "Al-Mājid",
+  "traduction": "Le Glorieux, Le Noble"
+},
+{
+  "numero": 66,
+  "nom_ar": "ٱلْواحِدُ",
+  "transliteration": "Al-Wāḥid",
+  "traduction": "L’Unique"
+},
+{
+  "numero": 67,
+  "nom_ar": "ٱلْأَحَدُ",
+  "transliteration": "Al-Aḥad",
+  "traduction": "Le Seul, L’Indivisible"
+},
+{
+  "numero": 68,
+  "nom_ar": "ٱلصَّمَدُ",
+  "transliteration": "Aṣ-Ṣamad",
+  "traduction": "L’Absolu, Celui vers qui tout le monde se tourne"
+},
+{
+  "numero": 69,
+  "nom_ar": "ٱلْقَادِرُ",
+  "transliteration": "Al-Qādir",
+  "traduction": "Le Tout-Puissant"
+},
+{
+  "numero": 70,
+  "nom_ar": "ٱلْمُقْتَدِرُ",
+  "transliteration": "Al-Muqtadir",
+  "traduction": "Le Très Puissant"
+},
+{
+  "numero": 71,
+  "nom_ar": "ٱلْمُقَدِّمُ",
+  "transliteration": "Al-Muqaddim",
+  "traduction": "Celui qui devance"
+},
+{
+  "numero": 72,
+  "nom_ar": "ٱلْمُؤَخِّرُ",
+  "transliteration": "Al-Mu'akhkhir",
+  "traduction": "Celui qui retarde"
+},
+{
+  "numero": 73,
+  "nom_ar": "ٱلأَوَّلُ",
+  "transliteration": "Al-Awwal",
+  "traduction": "Le Premier"
+},
+{
+  "numero": 74,
+  "nom_ar": "ٱلآخِرُ",
+  "transliteration": "Al-Ākhir",
+  "traduction": "Le Dernier"
+},
+{
+  "numero": 75,
+  "nom_ar": "ٱلظَّاهِرُ",
+  "transliteration": "Aẓ-Ẓāhir",
+  "traduction": "L’Évident, l’Apparent"
+},
+{
+  "numero": 76,
+  "nom_ar": "ٱلْبَاطِنُ",
+  "transliteration": "Al-Bāṭin",
+  "traduction": "Le Caché, l’Invisible"
+},
+{
+  "numero": 77,
+  "nom_ar": "ٱلْوَالِي",
+  "transliteration": "Al-Wāli",
+  "traduction": "Le Gouverneur"
+},
+{
+  "numero": 78,
+  "nom_ar": "ٱلْمُتَعَالِي",
+  "transliteration": "Al-Muta'ālī",
+  "traduction": "Le Très-Haut"
+},
+{
+  "numero": 79,
+  "nom_ar": "ٱلْبَرُّ",
+  "transliteration": "Al-Barr",
+  "traduction": "La Source de toute bonté"
+},
+{
+  "numero": 80,
+  "nom_ar": "ٱلْتَّوَابُ",
+  "transliteration": "At-Tawwāb",
+  "traduction": "L’Accueillant au repentir"
+},
+{
+  "numero": 81,
+  "nom_ar": "ٱلْمُنْتَقِمُ",
+  "transliteration": "Al-Muntaqim",
+  "traduction": "Le Vengeur"
+},
+{
+  "numero": 82,
+  "nom_ar": "ٱلْعَفُوُّ",
+  "transliteration": "Al-‘Afuww",
+  "traduction": "Le Pardonneur"
+},
+{
+  "numero": 83,
+  "nom_ar": "ٱلرَّؤُوفُ",
+  "transliteration": "Ar-Ra’ūf",
+  "traduction": "Le Très Compatissant"
+},
+{
+  "numero": 84,
+  "nom_ar": "مَالِكُ ٱلْمُلْكِ",
+  "transliteration": "Mālik-ul-Mulk",
+  "traduction": "Le Maître du Royaume"
+},
+{
+  "numero": 85,
+  "nom_ar": "ذُو ٱلْجَلَالِ وَٱلْإِكْرَامِ",
+  "transliteration": "Dhū-l-Jalāl wa-l-Ikrām",
+  "traduction": "Le Possesseur de la Majesté et de la Générosité"
+},
+{
+  "numero": 86,
+  "nom_ar": "ٱلْمُقْسِطُ",
+  "transliteration": "Al-Muqsit",
+  "traduction": "L’Equitable, le Juste"
+},
+{
+  "numero": 87,
+  "nom_ar": "ٱلْجَامِعُ",
+  "transliteration": "Al-Jāmi‘",
+  "traduction": "L’Assembleur"
+},
+{
+  "numero": 88,
+  "nom_ar": "ٱلْغَنيُّ",
+  "transliteration": "Al-Ghanī",
+  "traduction": "Le Riche, l’Indépendant"
+},
+{
+  "numero": 89,
+  "nom_ar": "ٱلْمُغْنِيُ",
+  "transliteration": "Al-Mughni",
+  "traduction": "L’Enrichisseur"
+},
+{
+  "numero": 90,
+  "nom_ar": "ٱلْمَانِعُ",
+  "transliteration": "Al-Māni‘",
+  "traduction": "Le Défenseur"
+},
+{
+  "numero": 91,
+  "nom_ar": "ٱلْضَّارَّ",
+  "transliteration": "Ad-Dārr",
+  "traduction": "Le Créateur du Danger"
+},
+{
+  "numero": 92,
+  "nom_ar": "ٱلنَّافِعُ",
+  "transliteration": "An-Nāfi‘",
+  "traduction": "Le Dispensateur de Bien"
+},
+{
+  "numero": 93,
+  "nom_ar": "ٱلنُّورُ",
+  "transliteration": "An-Nūr",
+  "traduction": "La Lumière"
+},
+{
+  "numero": 94,
+  "nom_ar": "ٱلْهَادِي",
+  "transliteration": "Al-Hādī",
+  "traduction": "Le Guide"
+},
+{
+  "numero": 95,
+  "nom_ar": "ٱلْبَدِيعُ",
+  "transliteration": "Al-Badī‘",
+  "traduction": "L’Incomparable"
+},
+{
+  "numero": 96,
+  "nom_ar": "ٱلْبَاقِي",
+  "transliteration": "Al-Bāqī",
+  "traduction": "L’Éternel"
+},
+{
+  "numero": 97,
+  "nom_ar": "ٱلْوَارِثُ",
+  "transliteration": "Al-Wārith",
+  "traduction": "L’Héritier"
+},
+{
+  "numero": 98,
+  "nom_ar": "ٱلرَّشِيدُ",
+  "transliteration": "Ar-Rashīd",
+  "traduction": "Le Guide, le Sage"
+},
+{
+  "numero": 99,
+  "nom_ar": "ٱلصَّبُورُ",
+  "transliteration": "As-Sabūr",
+  "traduction": "Le Très Patient"
+}
+]

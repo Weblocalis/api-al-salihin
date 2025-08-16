@@ -1,0 +1,1028 @@
+[
+  {
+    "id": 1,
+    "nom_ar": "الفاتحة",
+    "nom_fr": "Al-Fatiha",
+    "nom_en": "The Opening",
+    "versets": 7,
+    "type": "Makkiyya",
+    "fichier": "001.json"
+  },
+  {
+    "id": 2,
+    "nom_ar": "البقرة",
+    "nom_fr": "Al-Baqara",
+    "nom_en": "The Cow",
+    "versets": 286,
+    "type": "Madaniyya",
+    "fichier": "002.json"
+  },
+  {
+    "id": 3,
+    "nom_ar": "آل عمران",
+    "nom_fr": "Al-Imran",
+    "nom_en": "The Family of Imran",
+    "versets": 200,
+    "type": "Madaniyya",
+    "fichier": "003.json"
+  },
+  {
+    "id": 4,
+    "nom_ar": "النساء",
+    "nom_fr": "An-Nisa",
+    "nom_en": "The Women",
+    "versets": 176,
+    "type": "Madaniyya",
+    "fichier": "004.json"
+  },
+  {
+    "id": 5,
+    "nom_ar": "المائدة",
+    "nom_fr": "Al-Ma'idah",
+    "nom_en": "The Table Spread",
+    "versets": 120,
+    "type": "Madaniyya",
+    "fichier": "005.json"
+  },
+  {
+    "id": 6,
+    "nom_ar": "الأنعام",
+    "nom_fr": "Al-An'am",
+    "nom_en": "The Cattle",
+    "versets": 165,
+    "type": "Makkiyya",
+    "fichier": "006.json"
+  },
+  {
+    "id": 7,
+    "nom_ar": "الأعراف",
+    "nom_fr": "Al-A'raf",
+    "nom_en": "The Heights",
+    "versets": 206,
+    "type": "Makkiyya",
+    "fichier": "007.json"
+  },
+  {
+    "id": 8,
+    "nom_ar": "الأنفال",
+    "nom_fr": "Al-Anfal",
+    "nom_en": "The Spoils of War",
+    "versets": 75,
+    "type": "Madaniyya",
+    "fichier": "008.json"
+  },
+  {
+    "id": 9,
+    "nom_ar": "التوبة",
+    "nom_fr": "At-Tawbah",
+    "nom_en": "The Repentance",
+    "versets": 129,
+    "type": "Madaniyya",
+    "fichier": "009.json"
+  },
+  {
+    "id": 10,
+    "nom_ar": "يونس",
+    "nom_fr": "Yunus",
+    "nom_en": "Jonah",
+    "versets": 109,
+    "type": "Makkiyya",
+    "fichier": "010.json"
+  },
+  {
+  "id": 11,
+  "nom_ar": "هود",
+  "nom_fr": "Hud",
+  "nom_en": "Hud",
+  "versets": 123,
+  "type": "Makkiyya",
+  "fichier": "011.json"
+},
+{
+  "id": 12,
+  "nom_ar": "يوسف",
+  "nom_fr": "Yusuf",
+  "nom_en": "Joseph",
+  "versets": 111,
+  "type": "Makkiyya",
+  "fichier": "012.json"
+},
+{
+  "id": 13,
+  "nom_ar": "الرعد",
+  "nom_fr": "Ar-Ra'd",
+  "nom_en": "The Thunder",
+  "versets": 43,
+  "type": "Madaniyya",
+  "fichier": "013.json"
+},
+{
+  "id": 14,
+  "nom_ar": "إبراهيم",
+  "nom_fr": "Ibrahim",
+  "nom_en": "Abraham",
+  "versets": 52,
+  "type": "Makkiyya",
+  "fichier": "014.json"
+},
+{
+  "id": 15,
+  "nom_ar": "الحجر",
+  "nom_fr": "Al-Hijr",
+  "nom_en": "The Rocky Tract",
+  "versets": 99,
+  "type": "Makkiyya",
+  "fichier": "015.json"
+},
+{
+  "id": 16,
+  "nom_ar": "النحل",
+  "nom_fr": "An-Nahl",
+  "nom_en": "The Bee",
+  "versets": 128,
+  "type": "Makkiyya",
+  "fichier": "016.json"
+},
+{
+  "id": 17,
+  "nom_ar": "الإسراء",
+  "nom_fr": "Al-Isra",
+  "nom_en": "The Night Journey",
+  "versets": 111,
+  "type": "Makkiyya",
+  "fichier": "017.json"
+},
+{
+  "id": 18,
+  "nom_ar": "الكهف",
+  "nom_fr": "Al-Kahf",
+  "nom_en": "The Cave",
+  "versets": 110,
+  "type": "Makkiyya",
+  "fichier": "018.json"
+},
+{
+  "id": 19,
+  "nom_ar": "مريم",
+  "nom_fr": "Maryam",
+  "nom_en": "Mary",
+  "versets": 98,
+  "type": "Makkiyya",
+  "fichier": "019.json"
+},
+{
+  "id": 20,
+  "nom_ar": "طه",
+  "nom_fr": "Ta-Ha",
+  "nom_en": "Ta-Ha",
+  "versets": 135,
+  "type": "Makkiyya",
+  "fichier": "020.json"
+},
+{
+  "id": 21,
+  "nom_ar": "الأنبياء",
+  "nom_fr": "Al-Anbiya",
+  "nom_en": "The Prophets",
+  "versets": 112,
+  "type": "Makkiyya",
+  "fichier": "021.json"
+},
+{
+  "id": 22,
+  "nom_ar": "الحج",
+  "nom_fr": "Al-Hajj",
+  "nom_en": "The Pilgrimage",
+  "versets": 78,
+  "type": "Madaniyya",
+  "fichier": "022.json"
+},
+{
+  "id": 23,
+  "nom_ar": "المؤمنون",
+  "nom_fr": "Al-Mu’minun",
+  "nom_en": "The Believers",
+  "versets": 118,
+  "type": "Makkiyya",
+  "fichier": "023.json"
+},
+{
+  "id": 24,
+  "nom_ar": "النور",
+  "nom_fr": "An-Nur",
+  "nom_en": "The Light",
+  "versets": 64,
+  "type": "Madaniyya",
+  "fichier": "024.json"
+},
+{
+  "id": 25,
+  "nom_ar": "الفرقان",
+  "nom_fr": "Al-Furqan",
+  "nom_en": "The Criterion",
+  "versets": 77,
+  "type": "Makkiyya",
+  "fichier": "025.json"
+},
+{
+  "id": 26,
+  "nom_ar": "الشعراء",
+  "nom_fr": "Ash-Shu‘ara",
+  "nom_en": "The Poets",
+  "versets": 227,
+  "type": "Makkiyya",
+  "fichier": "026.json"
+},
+{
+  "id": 27,
+  "nom_ar": "النمل",
+  "nom_fr": "An-Naml",
+  "nom_en": "The Ant",
+  "versets": 93,
+  "type": "Makkiyya",
+  "fichier": "027.json"
+},
+{
+  "id": 28,
+  "nom_ar": "القصص",
+  "nom_fr": "Al-Qasas",
+  "nom_en": "The Stories",
+  "versets": 88,
+  "type": "Makkiyya",
+  "fichier": "028.json"
+},
+{
+  "id": 29,
+  "nom_ar": "العنكبوت",
+  "nom_fr": "Al-‘Ankabut",
+  "nom_en": "The Spider",
+  "versets": 69,
+  "type": "Makkiyya",
+  "fichier": "029.json"
+},
+{
+  "id": 30,
+  "nom_ar": "الروم",
+  "nom_fr": "Ar-Rum",
+  "nom_en": "The Romans",
+  "versets": 60,
+  "type": "Makkiyya",
+  "fichier": "030.json"
+},
+{
+  "id": 31,
+  "nom_ar": "لقمان",
+  "nom_fr": "Luqman",
+  "nom_en": "Luqman",
+  "versets": 34,
+  "type": "Makkiyya",
+  "fichier": "031.json"
+},
+{
+  "id": 32,
+  "nom_ar": "السجدة",
+  "nom_fr": "As-Sajda",
+  "nom_en": "The Prostration",
+  "versets": 30,
+  "type": "Makkiyya",
+  "fichier": "032.json"
+},
+{
+  "id": 33,
+  "nom_ar": "الأحزاب",
+  "nom_fr": "Al-Ahzab",
+  "nom_en": "The Confederates",
+  "versets": 73,
+  "type": "Madaniyya",
+  "fichier": "033.json"
+},
+{
+  "id": 34,
+  "nom_ar": "سبإ",
+  "nom_fr": "Saba",
+  "nom_en": "Sheba",
+  "versets": 54,
+  "type": "Makkiyya",
+  "fichier": "034.json"
+},
+{
+  "id": 35,
+  "nom_ar": "فاطر",
+  "nom_fr": "Fatir",
+  "nom_en": "The Originator",
+  "versets": 45,
+  "type": "Makkiyya",
+  "fichier": "035.json"
+},
+{
+  "id": 36,
+  "nom_ar": "يس",
+  "nom_fr": "Ya-Sin",
+  "nom_en": "Ya-Sin",
+  "versets": 83,
+  "type": "Makkiyya",
+  "fichier": "036.json"
+},
+{
+  "id": 37,
+  "nom_ar": "الصافات",
+  "nom_fr": "As-Saffat",
+  "nom_en": "Those who set the Ranks",
+  "versets": 182,
+  "type": "Makkiyya",
+  "fichier": "037.json"
+},
+{
+  "id": 38,
+  "nom_ar": "ص",
+  "nom_fr": "Sad",
+  "nom_en": "Sad",
+  "versets": 88,
+  "type": "Makkiyya",
+  "fichier": "038.json"
+},
+{
+  "id": 39,
+  "nom_ar": "الزمر",
+  "nom_fr": "Az-Zumar",
+  "nom_en": "The Groups",
+  "versets": 75,
+  "type": "Makkiyya",
+  "fichier": "039.json"
+},
+{
+  "id": 40,
+  "nom_ar": "غافر",
+  "nom_fr": "Ghafir",
+  "nom_en": "The Forgiver",
+  "versets": 85,
+  "type": "Makkiyya",
+  "fichier": "040.json"
+},
+{
+  "id": 41,
+  "nom_ar": "فصلت",
+  "nom_fr": "Fussilat",
+  "nom_en": "Explained in Detail",
+  "versets": 54,
+  "type": "Makkiyya",
+  "fichier": "041.json"
+},
+{
+  "id": 42,
+  "nom_ar": "الشورى",
+  "nom_fr": "Ash-Shura",
+  "nom_en": "The Consultation",
+  "versets": 53,
+  "type": "Makkiyya",
+  "fichier": "042.json"
+},
+{
+  "id": 43,
+  "nom_ar": "الزخرف",
+  "nom_fr": "Az-Zukhruf",
+  "nom_en": "The Ornaments of Gold",
+  "versets": 89,
+  "type": "Makkiyya",
+  "fichier": "043.json"
+},
+{
+  "id": 44,
+  "nom_ar": "الدخان",
+  "nom_fr": "Ad-Dukhan",
+  "nom_en": "The Smoke",
+  "versets": 59,
+  "type": "Makkiyya",
+  "fichier": "044.json"
+},
+{
+  "id": 45,
+  "nom_ar": "الجاثية",
+  "nom_fr": "Al-Jathiya",
+  "nom_en": "The Crouching",
+  "versets": 37,
+  "type": "Makkiyya",
+  "fichier": "045.json"
+},
+{
+  "id": 46,
+  "nom_ar": "الأحقاف",
+  "nom_fr": "Al-Ahqaf",
+  "nom_en": "The Wind-Curved Sandhills",
+  "versets": 35,
+  "type": "Makkiyya",
+  "fichier": "046.json"
+},
+{
+  "id": 47,
+  "nom_ar": "محمد",
+  "nom_fr": "Muhammad",
+  "nom_en": "Muhammad",
+  "versets": 38,
+  "type": "Madaniyya",
+  "fichier": "047.json"
+},
+{
+  "id": 48,
+  "nom_ar": "الفتح",
+  "nom_fr": "Al-Fath",
+  "nom_en": "The Victory",
+  "versets": 29,
+  "type": "Madaniyya",
+  "fichier": "048.json"
+},
+{
+  "id": 49,
+  "nom_ar": "الحجرات",
+  "nom_fr": "Al-Hujurat",
+  "nom_en": "The Rooms",
+  "versets": 18,
+  "type": "Madaniyya",
+  "fichier": "049.json"
+},
+{
+  "id": 50,
+  "nom_ar": "ق",
+  "nom_fr": "Qaf",
+  "nom_en": "Qaf",
+  "versets": 45,
+  "type": "Makkiyya",
+  "fichier": "050.json"
+},
+{
+  "id": 51,
+  "nom_ar": "الذاريات",
+  "nom_fr": "Adh-Dhariyat",
+  "nom_en": "The Winnowing Winds",
+  "versets": 60,
+  "type": "Makkiyya",
+  "fichier": "051.json"
+},
+{
+  "id": 52,
+  "nom_ar": "الطور",
+  "nom_fr": "At-Tur",
+  "nom_en": "The Mount",
+  "versets": 49,
+  "type": "Makkiyya",
+  "fichier": "052.json"
+},
+{
+  "id": 53,
+  "nom_ar": "النجم",
+  "nom_fr": "An-Najm",
+  "nom_en": "The Star",
+  "versets": 62,
+  "type": "Makkiyya",
+  "fichier": "053.json"
+},
+{
+  "id": 54,
+  "nom_ar": "القمر",
+  "nom_fr": "Al-Qamar",
+  "nom_en": "The Moon",
+  "versets": 55,
+  "type": "Makkiyya",
+  "fichier": "054.json"
+},
+{
+  "id": 55,
+  "nom_ar": "الرحمن",
+  "nom_fr": "Ar-Rahman",
+  "nom_en": "The Beneficent",
+  "versets": 78,
+  "type": "Madaniyya",
+  "fichier": "055.json"
+},
+{
+  "id": 56,
+  "nom_ar": "الواقعة",
+  "nom_fr": "Al-Waqi'a",
+  "nom_en": "The Inevitable",
+  "versets": 96,
+  "type": "Makkiyya",
+  "fichier": "056.json"
+},
+{
+  "id": 57,
+  "nom_ar": "الحديد",
+  "nom_fr": "Al-Hadid",
+  "nom_en": "The Iron",
+  "versets": 29,
+  "type": "Madaniyya",
+  "fichier": "057.json"
+},
+{
+  "id": 58,
+  "nom_ar": "المجادلة",
+  "nom_fr": "Al-Mujadila",
+  "nom_en": "The Pleading Woman",
+  "versets": 22,
+  "type": "Madaniyya",
+  "fichier": "058.json"
+},
+{
+  "id": 59,
+  "nom_ar": "الحشر",
+  "nom_fr": "Al-Hashr",
+  "nom_en": "The Exile",
+  "versets": 24,
+  "type": "Madaniyya",
+  "fichier": "059.json"
+},
+{
+  "id": 60,
+  "nom_ar": "الممتحنة",
+  "nom_fr": "Al-Mumtahana",
+  "nom_en": "The Examined One",
+  "versets": 13,
+  "type": "Madaniyya",
+  "fichier": "060.json"
+},
+{
+  "id": 61,
+  "nom_ar": "الصف",
+  "nom_fr": "As-Saff",
+  "nom_en": "The Ranks",
+  "versets": 14,
+  "type": "Madaniyya",
+  "fichier": "061.json"
+},
+{
+  "id": 62,
+  "nom_ar": "الجمعة",
+  "nom_fr": "Al-Jumu'a",
+  "nom_en": "Friday",
+  "versets": 11,
+  "type": "Madaniyya",
+  "fichier": "062.json"
+},
+{
+  "id": 63,
+  "nom_ar": "المنافقون",
+  "nom_fr": "Al-Munafiqun",
+  "nom_en": "The Hypocrites",
+  "versets": 11,
+  "type": "Madaniyya",
+  "fichier": "063.json"
+},
+{
+  "id": 64,
+  "nom_ar": "التغابن",
+  "nom_fr": "At-Taghabun",
+  "nom_en": "The Mutual Disillusion",
+  "versets": 18,
+  "type": "Madaniyya",
+  "fichier": "064.json"
+},
+{
+  "id": 65,
+  "nom_ar": "الطلاق",
+  "nom_fr": "At-Talaq",
+  "nom_en": "Divorce",
+  "versets": 12,
+  "type": "Madaniyya",
+  "fichier": "065.json"
+},
+{
+  "id": 66,
+  "nom_ar": "التحريم",
+  "nom_fr": "At-Tahrim",
+  "nom_en": "The Prohibition",
+  "versets": 12,
+  "type": "Madaniyya",
+  "fichier": "066.json"
+},
+{
+  "id": 67,
+  "nom_ar": "الملك",
+  "nom_fr": "Al-Mulk",
+  "nom_en": "The Sovereignty",
+  "versets": 30,
+  "type": "Makkiyya",
+  "fichier": "067.json"
+},
+{
+  "id": 68,
+  "nom_ar": "القلم",
+  "nom_fr": "Al-Qalam",
+  "nom_en": "The Pen",
+  "versets": 52,
+  "type": "Makkiyya",
+  "fichier": "068.json"
+},
+{
+  "id": 69,
+  "nom_ar": "الحاقة",
+  "nom_fr": "Al-Haqqah",
+  "nom_en": "The Inevitable",
+  "versets": 52,
+  "type": "Makkiyya",
+  "fichier": "069.json"
+},
+{
+  "id": 70,
+  "nom_ar": "المعارج",
+  "nom_fr": "Al-Ma'arij",
+  "nom_en": "The Ascending Stairways",
+  "versets": 44,
+  "type": "Makkiyya",
+  "fichier": "070.json"
+},
+{
+  "id": 71,
+  "nom_ar": "نوح",
+  "nom_fr": "Nuh",
+  "nom_en": "Noah",
+  "versets": 28,
+  "type": "Makkiyya",
+  "fichier": "071.json"
+},
+{
+  "id": 72,
+  "nom_ar": "الجن",
+  "nom_fr": "Al-Jinn",
+  "nom_en": "The Jinn",
+  "versets": 28,
+  "type": "Makkiyya",
+  "fichier": "072.json"
+},
+{
+  "id": 73,
+  "nom_ar": "المزمل",
+  "nom_fr": "Al-Muzzammil",
+  "nom_en": "The Enshrouded One",
+  "versets": 20,
+  "type": "Makkiyya",
+  "fichier": "073.json"
+},
+{
+  "id": 74,
+  "nom_ar": "المدثر",
+  "nom_fr": "Al-Muddathir",
+  "nom_en": "The Cloaked One",
+  "versets": 56,
+  "type": "Makkiyya",
+  "fichier": "074.json"
+},
+{
+  "id": 75,
+  "nom_ar": "القيامة",
+  "nom_fr": "Al-Qiyamah",
+  "nom_en": "The Resurrection",
+  "versets": 40,
+  "type": "Makkiyya",
+  "fichier": "075.json"
+},
+{
+  "id": 76,
+  "nom_ar": "الانسان",
+  "nom_fr": "Al-Insan",
+  "nom_en": "Man",
+  "versets": 31,
+  "type": "Madaniyya",
+  "fichier": "076.json"
+},
+{
+  "id": 77,
+  "nom_ar": "المرسلات",
+  "nom_fr": "Al-Mursalat",
+  "nom_en": "The Emissaries",
+  "versets": 50,
+  "type": "Makkiyya",
+  "fichier": "077.json"
+},
+{
+  "id": 78,
+  "nom_ar": "النبأ",
+  "nom_fr": "An-Naba",
+  "nom_en": "The Tidings",
+  "versets": 40,
+  "type": "Makkiyya",
+  "fichier": "078.json"
+},
+{
+  "id": 79,
+  "nom_ar": "النازعات",
+  "nom_fr": "An-Nazi'at",
+  "nom_en": "Those who drag forth",
+  "versets": 46,
+  "type": "Makkiyya",
+  "fichier": "079.json"
+},
+{
+  "id": 80,
+  "nom_ar": "عبس",
+  "nom_fr": "Abasa",
+  "nom_en": "He frowned",
+  "versets": 42,
+  "type": "Makkiyya",
+  "fichier": "080.json"
+},
+{
+  "id": 81,
+  "nom_ar": "التكوير",
+  "nom_fr": "At-Takwir",
+  "nom_en": "The Overthrowing",
+  "versets": 29,
+  "type": "Makkiyya",
+  "fichier": "081.json"
+},
+{
+  "id": 82,
+  "nom_ar": "الإنفطار",
+  "nom_fr": "Al-Infitar",
+  "nom_en": "The Cleaving",
+  "versets": 19,
+  "type": "Makkiyya",
+  "fichier": "082.json"
+},
+{
+  "id": 83,
+  "nom_ar": "المطففين",
+  "nom_fr": "Al-Mutaffifin",
+  "nom_en": "Defrauding",
+  "versets": 36,
+  "type": "Makkiyya",
+  "fichier": "083.json"
+},
+{
+  "id": 84,
+  "nom_ar": "الإنشقاق",
+  "nom_fr": "Al-Inshiqaq",
+  "nom_en": "The Splitting Open",
+  "versets": 25,
+  "type": "Makkiyya",
+  "fichier": "084.json"
+},
+{
+  "id": 85,
+  "nom_ar": "البروج",
+  "nom_fr": "Al-Buruj",
+  "nom_en": "The Mansions of the Stars",
+  "versets": 22,
+  "type": "Makkiyya",
+  "fichier": "085.json"
+},
+{
+  "id": 86,
+  "nom_ar": "الطارق",
+  "nom_fr": "At-Tariq",
+  "nom_en": "The Morning Star",
+  "versets": 17,
+  "type": "Makkiyya",
+  "fichier": "086.json"
+},
+{
+  "id": 87,
+  "nom_ar": "الأعلى",
+  "nom_fr": "Al-Ala",
+  "nom_en": "The Most High",
+  "versets": 19,
+  "type": "Makkiyya",
+  "fichier": "087.json"
+},
+{
+  "id": 88,
+  "nom_ar": "الغاشية",
+  "nom_fr": "Al-Ghashiyah",
+  "nom_en": "The Overwhelming",
+  "versets": 26,
+  "type": "Makkiyya",
+  "fichier": "088.json"
+},
+{
+  "id": 89,
+  "nom_ar": "الفجر",
+  "nom_fr": "Al-Fajr",
+  "nom_en": "The Dawn",
+  "versets": 30,
+  "type": "Makkiyya",
+  "fichier": "089.json"
+},
+{
+  "id": 90,
+  "nom_ar": "البلد",
+  "nom_fr": "Al-Balad",
+  "nom_en": "The City",
+  "versets": 20,
+  "type": "Makkiyya",
+  "fichier": "090.json"
+},
+{
+  "id": 91,
+  "nom_ar": "الشمس",
+  "nom_fr": "Ash-Shams",
+  "nom_en": "The Sun",
+  "versets": 15,
+  "type": "Makkiyya",
+  "fichier": "091.json"
+},
+{
+  "id": 92,
+  "nom_ar": "الليل",
+  "nom_fr": "Al-Layl",
+  "nom_en": "The Night",
+  "versets": 21,
+  "type": "Makkiyya",
+  "fichier": "092.json"
+},
+{
+  "id": 93,
+  "nom_ar": "الضحى",
+  "nom_fr": "Ad-Duhaa",
+  "nom_en": "The Morning Hours",
+  "versets": 11,
+  "type": "Makkiyya",
+  "fichier": "093.json"
+},
+{
+  "id": 94,
+  "nom_ar": "الشرح",
+  "nom_fr": "Ash-Sharh",
+  "nom_en": "The Relief",
+  "versets": 8,
+  "type": "Makkiyya",
+  "fichier": "094.json"
+},
+{
+  "id": 95,
+  "nom_ar": "التين",
+  "nom_fr": "At-Tin",
+  "nom_en": "The Fig",
+  "versets": 8,
+  "type": "Makkiyya",
+  "fichier": "095.json"
+},
+{
+  "id": 96,
+  "nom_ar": "العلق",
+  "nom_fr": "Al-Alaq",
+  "nom_en": "The Clot",
+  "versets": 19,
+  "type": "Makkiyya",
+  "fichier": "096.json"
+},
+{
+  "id": 97,
+  "nom_ar": "القدر",
+  "nom_fr": "Al-Qadr",
+  "nom_en": "The Power",
+  "versets": 5,
+  "type": "Makkiyya",
+  "fichier": "097.json"
+},
+{
+  "id": 98,
+  "nom_ar": "البينة",
+  "nom_fr": "Al-Bayyina",
+  "nom_en": "The Clear Proof",
+  "versets": 8,
+  "type": "Madaniyya",
+  "fichier": "098.json"
+},
+{
+  "id": 99,
+  "nom_ar": "الزلزلة",
+  "nom_fr": "Az-Zalzalah",
+  "nom_en": "The Earthquake",
+  "versets": 8,
+  "type": "Madaniyya",
+  "fichier": "099.json"
+},
+{
+  "id": 100,
+  "nom_ar": "العاديات",
+  "nom_fr": "Al-Adiyat",
+  "nom_en": "The Courser",
+  "versets": 11,
+  "type": "Makkiyya",
+  "fichier": "100.json"
+},
+{
+  "id": 101,
+  "nom_ar": "القارعة",
+  "nom_fr": "Al-Qari'ah",
+  "nom_en": "The Striking Calamity",
+  "versets": 11,
+  "type": "Makkiyya",
+  "fichier": "101.json"
+},
+{
+  "id": 102,
+  "nom_ar": "التكاثر",
+  "nom_fr": "At-Takathur",
+  "nom_en": "The Rivalry in world increase",
+  "versets": 8,
+  "type": "Makkiyya",
+  "fichier": "102.json"
+},
+{
+  "id": 103,
+  "nom_ar": "العصر",
+  "nom_fr": "Al-Asr",
+  "nom_en": "The Declining Day",
+  "versets": 3,
+  "type": "Makkiyya",
+  "fichier": "103.json"
+},
+{
+  "id": 104,
+  "nom_ar": "الهمزة",
+  "nom_fr": "Al-Humazah",
+  "nom_en": "The Slanderer",
+  "versets": 9,
+  "type": "Makkiyya",
+  "fichier": "104.json"
+},
+{
+  "id": 105,
+  "nom_ar": "الفيل",
+  "nom_fr": "Al-Fil",
+  "nom_en": "The Elephant",
+  "versets": 5,
+  "type": "Makkiyya",
+  "fichier": "105.json"
+},
+{
+  "id": 106,
+  "nom_ar": "قريش",
+  "nom_fr": "Quraysh",
+  "nom_en": "Quraish",
+  "versets": 4,
+  "type": "Makkiyya",
+  "fichier": "106.json"
+},
+{
+  "id": 107,
+  "nom_ar": "الماعون",
+  "nom_fr": "Al-Ma'un",
+  "nom_en": "Small Kindnesses",
+  "versets": 7,
+  "type": "Makkiyya",
+  "fichier": "107.json"
+},
+{
+  "id": 108,
+  "nom_ar": "الكوثر",
+  "nom_fr": "Al-Kawthar",
+  "nom_en": "Abundance",
+  "versets": 3,
+  "type": "Makkiyya",
+  "fichier": "108.json"
+},
+{
+  "id": 109,
+  "nom_ar": "الكافرون",
+  "nom_fr": "Al-Kafirun",
+  "nom_en": "The Disbelievers",
+  "versets": 6,
+  "type": "Makkiyya",
+  "fichier": "109.json"
+},
+{
+  "id": 110,
+  "nom_ar": "النصر",
+  "nom_fr": "An-Nasr",
+  "nom_en": "The Divine Support",
+  "versets": 3,
+  "type": "Madaniyya",
+  "fichier": "110.json"
+},
+{
+  "id": 111,
+  "nom_ar": "المسد",
+  "nom_fr": "Al-Masad",
+  "nom_en": "The Palm Fiber",
+  "versets": 5,
+  "type": "Makkiyya",
+  "fichier": "111.json"
+},
+{
+  "id": 112,
+  "nom_ar": "الإخلاص",
+  "nom_fr": "Al-Ikhlas",
+  "nom_en": "Sincerity",
+  "versets": 4,
+  "type": "Makkiyya",
+  "fichier": "112.json"
+},
+{
+  "id": 113,
+  "nom_ar": "الفلق",
+  "nom_fr": "Al-Falaq",
+  "nom_en": "The Daybreak",
+  "versets": 5,
+  "type": "Makkiyya",
+  "fichier": "113.json"
+},
+{
+  "id": 114,
+  "nom_ar": "الناس",
+  "nom_fr": "An-Nas",
+  "nom_en": "Mankind",
+  "versets": 6,
+  "type": "Makkiyya",
+  "fichier": "114.json"
+}
+]

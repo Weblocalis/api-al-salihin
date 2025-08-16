@@ -1,16 +1,54 @@
 {
-  "surah_number": 1,
-  "lang": "ar",
-  "name_ar": "الفاتحة",
-  "verses_count": 7,
-  "revelation_place": "Mecque",
-  "revelation_type": "Makkia",
-  "translated_by": "Muhammad Hamidullah",
-  "verses": [
+  "id": 1,
+  "nom": {
+    "ar": "الفاتحة",
+    "phonetique": "Al Fatiha",
+    "fr": "Prologue",
+    "en": "The Opening"
+  },
+  "type": "Makkiyah",
+  "versets": [
     {
-      "verse_number": 1,
-      "text": ""
+      "numero": 1,
+      "texte_ar": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+      "fr": "Au nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux.",
+      "en": "In the name of Allah, the Most Gracious, the Most Merciful."
+    },
+    {
+      "numero": 2,
+      "texte_ar": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "fr": "Louange à Allah, Seigneur de l’univers.",
+      "en": "All praise is due to Allah, Lord of the worlds."
+    },
+    {
+      "numero": 3,
+      "texte_ar": "الرَّحْمَنِ الرَّحِيمِ",
+      "fr": "Le Tout Miséricordieux, le Très Miséricordieux.",
+      "en": "The Most Gracious, the Most Merciful."
+    },
+    {
+      "numero": 4,
+      "texte_ar": "مَالِكِ يَوْمِ الدِّينِ",
+      "fr": "Maître du Jour de la rétribution.",
+      "en": "Master of the Day of Judgment."
+    },
+    {
+      "numero": 5,
+      "texte_ar": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "fr": "C’est Toi [Seul] que nous adorons, et c’est Toi [Seul] dont nous implorons secours.",
+      "en": "You ˹alone˺ we worship and You ˹alone˺ we ask for help."
+    },
+    {
+      "numero": 6,
+      "texte_ar": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "fr": "Guide-nous dans le droit chemin,",
+      "en": "Guide us along the Straight Path,"
+    },
+    {
+      "numero": 7,
+      "texte_ar": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "fr": "le chemin de ceux que Tu as comblés de faveurs, non pas de ceux qui ont encouru Ta colère, ni des égarés.",
+      "en": "the path of those You have blessed—not those You are displeased with, or those who are astray."
     }
-  
   ]
 }
